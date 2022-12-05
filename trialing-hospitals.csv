@@ -1,0 +1,903 @@
+hospital_id,name,addr,city,region,country,phone,long,lat
+214eb259,Distrito Sanitario de Almería,"Ronda Rector Arolas, S/N, 17600",Almería,Andalucía,Spain,,-3.6727050,40.4331320
+d7eb4d6b,Hospital Marítimo de Oza,"Avenida Gran Via, 203, 08908",A Coruña,Galicia,Spain,+34 92 510 63 51,2.1214150,41.3970880
+194f8ead,Hospital do Meixoeiro,"Avenida Ejercito Español, 10, 23007",Vigo,Galicia,Spain,,-16.7146280,28.0499390
+554b48cd,Centro De Atención Especializada Oroitu,"Calle Eladio Salinero De Los Santos, 6, 06011",Getxo,País Vasco,Spain,+34 97 553 27 59,-5.6984970,43.5454600
+05022ca2,IIS.ES - Instituto del Sueño en Madrid,"Calle Franz Schubert, 2, 50012",Madrid,Comunidad de Madrid,Spain,+34 96 329 86 59,-0.0360140,39.9972250
+6cdceeae,Centro de Neurología Avanzada (CNA),"Carretera De Colmenar Viejo, KM.16, 28049",Sevilla,Andalucía,Spain,,-0.4624840,39.4509530
+c500c666,CAP de San Juan,"Carretera Puente Genave - La Puerta De Segura, Km. 0,300, S/N, 23350",Salamanca,Castilla y León,Spain,+34 98 834 36 11,-3.6032880,40.0320930
+5ddbae43,Fundación CITA-alzhéimer Fundazioa,"Avenida Pablo Iglesias, 92, 33204",Donostia-San Sebastián,País Vasco,Spain,,3.3294860,39.5451980
+890abb32,Instituto de Neurociencias (INc),"Calle Goieta Kalea, 32, 48610",Barcelona,Cataluña,Spain,,2.0857950,41.3826240
+e7b7f72a,Unitat de Recerca - Ace Alzheimer Center Barcelona (Fundació ACE),"Plaza Doctor Robert, 5, 08221",Barcelona,Cataluña,Spain,+34 98 184 40 72,-0.9527000,37.7379240
+dfa51b65,Barcelonabeta Brain Research Center,"Calle Torre Del Cerezo (San Juan De Mozarrifar), 17, 50820",Barcelona,Cataluña,Spain,,0.9037850,41.7599720
+9dc827d6,Martínez Hervás Cardiólogos,"Carretera Valverde, 0, 06800",Granada,Andalucía,Spain,+34 90 607 40 18,-3.8742156,40.4502064
+6566add5,Centre d'Atenció Primària Cap 17 de setembre,"Paseo Castellana, 83, 28046",El Prat de Llobregat,Cataluña,Spain,+34 92 939 37 35,0.5159440,40.8139980
+e5e9cac5,INCLIVA Institut d'Investigació Sanitària,"Calle Ponent, 15, 03110",València,Comunitat Valenciana,Spain,,-0.6851590,38.2596550
+615fa579,CAP Sant Martí de Provençals,"Avenida Gava, 38, 08840",Barcelona,Cataluña,Spain,+34 90 497 91 86,1.9391210,42.4408210
+00d40fd9,EAP | Sardenya,"C. de Menéndez y Pelayo, 4, 46010",Barcelona,Cataluña,Spain,,-2.9154280,43.2583270
+473e358f,Institut Català de Serveis Mèdics SA.,"Calle Asociacion, S/N, 30500",Girona,Cataluña,Spain,+34 98 214 90 49,2.1283690,41.4054510
+596b7532,Hospital Universitario San Agustín,"Camino Del Bosc, S/N, 43800",Avilés,Asturias,Spain,,-0.2175500,39.6797300
+568e534d,Clínica NTDE - Nuevas Tecnologías en Diabetes y Endocrinología,"Avenida Manuel Fraga Iribarne, 2, 28055",Sevilla,Andalucía,Spain,+34 99 553 29 37,1.4305700,38.9073900
+5abd0031,Centro Nacional de Investigaciones Cardiovasculares (CNIC),"Calle Muntaner, 314, 08021",Madrid,Comunidad de Madrid,Spain,+34 90 761 82 42,2.6464720,39.5752330
+0ca41679,Hospital General Universitario de Toledo,"Calle Fontecha Y Salazar, 6, 48007",Toledo,Castilla - La Mancha,Spain,,2.1652280,41.4073330
+e805bf05,Hospital Universitario Infanta Cristina,"Calle Antonio Machado, S/N, 50600",Parla,Comunidad de Madrid,Spain,,-6.5280280,43.5464510
+374c15b9,GenesisCare Jerez de la Frontera,"Calle Victor Hugo, 24, 08174",Jerez de la Frontera,Andalucía,Spain,,-2.6038480,39.2787140
+6c4513fa,Hospital Materno-Infantil Teresa Herrera,"Paseo Isabel La Catolica, 1-3, 50009",A Coruña,Galicia,Spain,+34 94 934 58 37,-4.7932800,37.9085770
+6e8a7b31,Hospital Universitario Lucus Augusti,"Avenida Ambulatorio, S/N, 11650",Lugo,Galicia,Spain,+34 97 378 25 73,-3.3818980,38.0177240
+97fd4c03,Instituto de Oncología Avanzada (CIMA),"Carretera De Manresa A Solsona. Cami De Les Torres, C-55, 08250",Barcelona,Cataluña,Spain,,-3.6130950,40.1602720
+34dd0232,HM CIOCC: Centro Integral Oncológico Clara Campal,"Avenida Marie Curie, S/N, 28822",Madrid,Comunidad de Madrid,Spain,+34 91 465 36 75,3.8392830,40.0022850
+e5ba8bf4,Hospital Álvaro Cunqueiro,"Calle Lepant, 13-21, 08301",Vigo,Galicia,Spain,+34 91 517 37 91,-2.4416110,42.4682730
+d5c28438,Servicio Madrileño de Salud,"Paseo Lucas Mallada, 22, 22006",Madrid,Comunidad de Madrid,Spain,+34 94 512 42 60,-1.8688990,38.1061120
+0a6f4e09,Hospital Provincial Nuestra Señora de la Montaña,"Calle Salamanca, 5, 36211",Cáceres,Extremadura,Spain,,-5.3482560,36.1611790
+896b79b0,Espai Sanitari Campanar-Ernest Lluch,"Via Romana, S/N, 07800",València,Comunitat Valenciana,Spain,+34 91 821 18 85,-17.1119380,28.0922970
+a6a2623b,Hospital IMSKE | Traumatología y Rehabilitación,"Calle Gaviotas (Las), 22, 38437",València,Comunitat Valenciana,Spain,+34 90 705 78 46,-5.5935760,42.6076660
+8aae9e43,Ctd Vilareal,"Avenida De Jerez, 59, 41013",Vila-real,Comunitat Valenciana,Spain,+34 98 300 38 84,-2.9421440,43.2612590
+0cc89ec9,Centro de Asistencia Terapéutica Barcelona,"Calle Pin I Soler, 12, 43002",Barcelona,Cataluña,Spain,,2.1543640,41.4109660
+1aab413b,Proyecto Hombre Castilla la Mancha,"Calle Dolores De La Rocha, 5, 35001",Guadalajara,Castilla - La Mancha,Spain,+34 98 246 37 95,-3.7102840,40.5543110
+2834e175,Hospital Insular de Lanzarote,"Calle Pons I Gallarza, 90, 07004",Arrecife,Canarias,Spain,,-5.2727440,38.3032110
+f7ebfdaf,Hospital de Campaña Sanitario (Hcs144),"Calle De Jose Silva, 7, 28043",Gijón,Asturias,Spain,+34 91 591 84 64,-3.6627000,40.4921630
+2f468dc2,Hospital HC Miraflores,"Carretera N-340, 1193, 43700",Zaragoza,Aragón,Spain,+34 90 817 56 17,-6.3541980,36.7788200
+4c892463,Hospital Universitario de Jaén Puerta de Andalucía,"Avenida Madrid, 1, 06400",Jaén,Andalucía,Spain,,-4.1013670,40.6775270
+df39045d,Policlinico Riojano Nuestra Señora De Valvanera,"Plaza Del Hospital Civil, S/N, 29009",Logroño,La Rioja,Spain,+34 99 620 38 45,-3.6813740,40.4571440
+3333578d,Hospital San Pedro,"Calle Jorge Juan, 30, 30205",Logroño,La Rioja,Spain,,2.0391890,41.3493900
+23a11ca6,Hospital De La Rioja,"Camino Camino San Juan De Dios, 12, 20009",Logroño,La Rioja,Spain,+34 98 277 37 59,3.1080470,39.8142750
+145782b2,Fundación Hospital Calahorra,"Calle Dr. Castany, S/N, 17190",Calahorra,La Rioja,Spain,,-4.5410470,36.6067070
+82bfc550,Clínica Los Manzanos,"As, Xubias de Abaixo, s/n, 15009",Lardero,La Rioja,Spain,+34 97 975 92 60,-1.0864300,38.8611720
+91b2055b,Centro Sociosanitario De Convalencencia Los Jazmines,"Avenida Miguel Espinosa, S/N, 30400",Haro,La Rioja,Spain,,1.8502820,42.1045280
+65004739,Centro Sociosanitario De Convalecencia Nuestra Señora Virgen Del Carmen,"Carretera Los Molares, S/N, 14012",Calahorra,La Rioja,Spain,,-0.9642680,37.5960240
+75b21c32,Centro Asistencial Albelda De Iregua,"Camino D'Ur, 31, 17520",Albelda de Iregua,La Rioja,Spain,,-0.3639320,39.4783500
+ac5fcb60,Urduliz Ospitalea,"Avenida Nafarroa, Avenida/Etorbidea, 16, 20500",Urduliz,País Vasco,Spain,+34 93 736 18 63,-3.9108520,39.0208700
+100535e4,"Sanatorio Usurbil, S. L.","Calle Marques De Santa Anna, 9, 08023",Usurbil,País Vasco,Spain,,-6.0878450,40.0421050
+3756181d,Sanatorio Bilbaino,"C. Newton, 13, 11407",Bilbao,País Vasco,Spain,+34 96 639 70 22,-4.6909800,40.6506160
+fecf7aca,Policlínica Gipuzkoa,"Avenida De Los Reyes Catolicos, 2, 28040",Donostia-San Sebastián,País Vasco,Spain,+34 90 677 57 61,-2.9311360,43.2648960
+1fc656ee,Mutualia Clínica Pakea,"Calle De La Maso, 38, 28034",Donostia-San Sebastián,País Vasco,Spain,+34 97 694 86 95,2.8264340,41.9829580
+fcac0760,Hospital Vithas San José,"Calle Camelies, 15, 08024",Vitoria-Gasteiz,País Vasco,Spain,+34 95 671 21 60,1.8794260,41.9779340
+6442ea27,Hospital Universitario Donostia,"Calle Corredoira, S/N, 27400",Donostia-San Sebastián,País Vasco,Spain,+34 95 162 37 47,-5.9795140,37.3593360
+44bed6f5,Hospital Universitario Cruces,"Calle Feduchy, 8, 11001",Barakaldo,País Vasco,Spain,+34 95 986 92 40,-3.9977250,39.8678090
+f99968aa,Hospital Universitario Basurto,"Carretera Nacional 340, Km 589, S/N, 30817",Bilbao,País Vasco,Spain,+34 90 337 83 61,2.1558570,41.4060940
+967336d3,Hospital Universitario Araba - Sede Txagorritxu y Sede Santiago,"Calle Remei De Dalt, 3, 08240",Vitoria-Gasteiz,País Vasco,Spain,+34 93 469 49 91,1.9206090,41.4720980
+2d2fd020,Hospital Santa Marina,"Calle Sant Segimon, 3, 08500",Bilbao,País Vasco,Spain,+34 96 460 35 38,-1.1188140,37.9779800
+0616d64d,Hospital San Juan De Dios,"Calle Medico Vior, S/N, 27880",Donostia-San Sebastián,País Vasco,Spain,+34 98 215 51 78,-3.6107500,40.5589990
+57f11547,Hospital San Juan De Dios Santurtzi,"Camino de las Torres, 51-53",Santurtzi,País Vasco,Spain,,-3.6917570,40.4481220
+038dff84,Hospital San Eloy,"Lugar Santiso, S/N, 15821",Barakaldo,País Vasco,Spain,+34 98 619 28 69,-0.9057090,41.6309840
+ef72dfdb,Hospital Ricardo Bermingham,"Avenida Severo Ochoa, S/N - Edif. Mayoral, S/N, 29603",Donostia-San Sebastián,País Vasco,Spain,+34 94 545 24 14,-6.3636150,38.9127150
+90ddf73c,Hospital Quirónsalud Vitoria,"Avenida Avda. Antonio Miranda, 5, 48902",Vitoria-Gasteiz,País Vasco,Spain,+34 93 280 66 83,-3.6968230,40.3796950
+cfc8c788,Hospital Quirónsalud Bizkaia,"Avenida Requejo, 35, 49022",Erandio,País Vasco,Spain,+34 92 435 80 44,-5.1808470,43.3752260
+aa8550de,Hospital Psiquiátrico San Juan De Dios,"Calle Lillo Juan, 137, 03690",Arrasate/Mondragón,País Vasco,Spain,+34 98 298 39 85,-15.4626540,28.0552410
+97aeda2c,Hospital Psiquiátrico de Álava,"Avenida De Extremadura, 5, 45600",Vitoria-Gasteiz,País Vasco,Spain,+34 92 715 15 52,-0.1656460,38.5265320
+7aa25d06,Hospital Intermutual De Euskadi,"Avenida França, S/N, 17007",Bilbao,País Vasco,Spain,+34 94 999 56 19,-1.9651780,42.3037450
+246c6318,Hospital Galdakao-Usansolo,"Calle General Davila, 35, 39006",Galdakao,País Vasco,Spain,+34 95 590 59 37,2.1307270,41.3934840
+f7caa93e,Hospital De Zumarraga - Osi Goierri - Alto Urola,"Calle Maestro Mendiri, 2, 48006",Zumarraga,País Vasco,Spain,+34 98 265 10 92,-2.5475660,43.1707530
+e8876121,Hospital De Zamudio,"Glorieta De Mejico, 1, 41012",Zamudio,País Vasco,Spain,+34 98 860 38 79,2.0857320,41.4843630
+8664fbe3,Hospital De Zaldibar,"Calle Urbanizacion Tres Culturas, S/N, 45005",Zaldibar,País Vasco,Spain,,-0.4153750,42.1514450
+f16e000e,Hospital De Mendaro - Osi Bajo Deba,"Calle Dr. Antoni Pujadas, 38, 08830",Mendaro,País Vasco,Spain,+34 94 292 18 64,-3.7595160,40.3820100
+9ad2d88e,Hospital De Leza,"Calle De Modesto Lafuente, 14, 28010",Laguardia,País Vasco,Spain,+34 96 637 82 82,2.1927990,41.4361950
+2c64e9ae,Hospital De Gorliz,"Calle De Juan Bravo, 39, 28006",Gorliz,País Vasco,Spain,,0.6137200,41.6248040
+f00f6079,Hospital De Cuidados San Onofre Sl,"Calle Piqueras, 98, 26006",Vitoria-Gasteiz,País Vasco,Spain,,-2.9525180,43.2599390
+ec9e0293,Hospital De Bermeo,"Rambla Vella, 14, 43003",Bermeo,País Vasco,Spain,+34 94 701 26 95,-4.5435390,42.0043360
+87898e81,Hospital Cruz Roja De Bilbao - Victoria Eugenia,"Calle Esperanza (La), 3, 01002",Bilbao,País Vasco,Spain,,2.2681180,41.6601160
+a2fdc187,Hospital Bidasoa - Osi Bidasoa,"Avenida De Francisco Cerda, 3, 46870",Hondarribia,País Vasco,Spain,+34 92 570 44 27,-6.9701580,38.8785510
+09aa2c72,Hospital Alto Deba - Organizacion Sanitaria Integrada Alto Deba,"Avenida Alcalde  Rovira  Roure, 80, 25198",Arrasate/Mondragón,País Vasco,Spain,,-5.6064990,43.5235690
+5df03eb3,Hospital Aita Menni,"Plaza Joaquim  Bau, 6-8, 43500",Arrasate/Mondragón,País Vasco,Spain,,-5.4327310,36.1748470
+f7a35888,Fundacion Onkologikoa Fundazioa,"Plaza Del Conde Del Valle De Suchil, 16, 28015",Donostia-San Sebastián,País Vasco,Spain,+34 92 757 45 36,2.2901230,41.6136430
+438248f8,Eibar Ospitalea,"Carretera Arguis, KM 2,5, 22006",Eibar,País Vasco,Spain,+34 93 645 39 68,-0.4699360,38.4205960
+acda8877,Clínica Virgen Blanca,"Calle Del Profesor Martin Lagos, S/N, 28040",Bilbao,País Vasco,Spain,,0.5524320,41.6692270
+6be0950f,Clínica Santa Maria De La Asuncion - Inviza,"Calle Vives Llull, 6, 07703",Tolosa,País Vasco,Spain,,-3.8540440,40.4502840
+05070000,"Clínica Indautxu, S.A.","Paseo Universal, 34, 08042",Bilbao,País Vasco,Spain,,-3.1367800,37.3027650
+54107721,Clínica Imq Zorrotzaurre,"Calle Miguel Hernandez, 12, 30011",Bilbao,País Vasco,Spain,+34 98 817 79 28,2.6985940,39.5471160
+75d9fbd4,"Clínica Guimon, S.A.","Calle Cami Dels Reis, 308, 07010",Bilbao,País Vasco,Spain,+34 99 139 16 13,2.1726070,41.4100260
+7353e0af,Clínica Ercilla Mutualia,"Avenida Intendente Jorge Palacios, 1, 30003",Bilbao,País Vasco,Spain,+34 93 856 18 83,-3.6194480,40.1561800
+39612ade,Amsa Servicio De Psiquiatria,"Calle Luna, 1, 28911",Santurtzi,País Vasco,Spain,,-6.1180200,36.7127000
+701b34fc,Hospital San Juan De Dios,"Calle Pinar, 7, 49023",Pamplona/Iruña,Navarra,Spain,,-0.4736960,38.3538750
+f1ff9973,Hospital Reina Sofia,"Calle Ferrocarril, 57, 46100",Tudela,Navarra,Spain,+34 91 324 39 18,-4.7520800,37.3974070
+87bcb322,Hospital García Orcoyen,"Carretera De Linares, S/N, 23400",Estella/Lizarra,Navarra,Spain,+34 99 294 12 69,2.0166020,41.5649160
+9100ff89,Complejo Hospitalario De Navarra,"Plaza Doctor Gomez Ulla, 15, 03013",Pamplona/Iruña,Navarra,Spain,,-2.9830710,43.2810950
+4047950a,Clínica San Miguel,"Avenida Doctor Fedriani, 3, 41009",Pamplona/Iruña,Navarra,Spain,+34 97 848 28 61,-2.9612060,43.3749060
+afd91a07,Clínica Psiquiátrica Padre Menni,"Calle Isabel De Villena, 2, 46011",Pamplona/Iruña,Navarra,Spain,,-0.6030380,38.8199300
+f20b0e6d,Clínica Psicogeriátrica Josefina Arregui,"Carretera Madrid, KM 114, 45600",Altsasu/Alsasua,Navarra,Spain,+34 99 106 30 95,-2.0135370,43.3115470
+643abfe9,Centro San Francisco Javier,"Calle Plato, 21, 08006",Pamplona/Iruña,Navarra,Spain,+34 93 497 68 40,-0.1063840,38.5414810
+ad6b5e7c,Centro Hospitalario Benito Menni,"Calle Antoni Gaudi, 26, 43203",Baztan,Navarra,Spain,+34 90 758 75 38,-0.7183120,37.9432640
+089d41ad,Santo Y Real Hospital De Caridad,"Calle Joaquin Beunza, 45 , 31014",Cartagena,Murcia,Spain,+34 96 271 55 43,-13.6525960,28.9532320
+5d8ca22d,Sanatorio Dr. Muñoz,"Avenida Josep Molins,29, 08906",Murcia,Murcia,Spain,+34 95 477 70 17,-5.8617520,38.9543040
+4493633d,Residencia Los Almendros,"Avenida Del Rio Pudio, S/N, 41930",Cartagena,Murcia,Spain,+34 97 486 19 32,1.7047130,41.3394850
+dc48f024,Hospital Virgen Del Castillo,"Avenida Zaragoza, 16, 44001",Yecla,Murcia,Spain,+34 96 353 83 61,-2.4679040,36.8400960
+db0afeac,Hospital Virgen Del Alcázar De Lorca,"Carretera Ctra. Montoro-Puente Genil, Km. 65,350, S/N, 14550",Lorca,Murcia,Spain,+34 98 622 50 28,-2.8044080,38.3532260
+1cba5473,Hospital Santa María Del Rosell,"Avenida De La Universidad, 75, 10004",Cartagena,Murcia,Spain,,-2.8865830,43.2632020
+51abaab6,Hospital Rafael Méndez,"Avenida Derechos Humanos, S/N, 39770",Lorca,Murcia,Spain,+34 94 217 59 47,1.8292920,41.7253200
+cc9b511d,Hospital Quirónsalud Murcia,"Calle Profesor Beltran Baguena, 8, 46009",Murcia,Murcia,Spain,,-0.8424960,41.7185890
+94fb08e9,Hospital Psiquiátrico Román Alberca,"Calle Del Concejal Francisco Jose Jimenez Martin, 128, 28047",Murcia,Murcia,Spain,,-16.2926390,28.4676020
+6b3c8190,Hospital Perpetuo Socorro Alameda,"Avenida Vallcarca, 169-205, 08023",Cartagena,Murcia,Spain,+34 92 101 58 10,2.1231280,41.3881710
+23f799a1,Hospital Nuestra Señora Del Perpetuo Socorro,"Ronda Sant Antoni Maria Claret, 20, 17002",Cartagena,Murcia,Spain,,-6.6423600,42.5732740
+d57d0a12,Hospital Mesa Del Castillo,"Calle Sebastian Feringan, 12, 30205",Murcia,Murcia,Spain,+34 99 370 90 67,-2.4901170,43.0657200
+60bccda4,Hospital La Vega - Grupo HLA,"Avenida Ruiz Jarabo, S/N, 44002",Murcia,Murcia,Spain,,-6.4052720,38.6805040
+c65d1fe6,Hospital Ibermutuamur - Patología Laboral,"Calle De La Salle, 12, 28023",Murcia,Murcia,Spain,,-3.8152460,40.2856930
+c086ff58,Hospital General Universitario Santa Lucía,"Calle Felipe Ii, 9, 47003",Cartagena,Murcia,Spain,+34 98 746 18 23,-3.6943710,41.6620130
+33eab43b,Hospital General Universitario Reina Sofia,"Calle De La Loma, 1, 28003",Murcia,Murcia,Spain,,2.8250260,41.9763500
+91dd839b,Hospital General Universitario Los Arcos Del Mar Menor,"Camino Can Ruti, S/N, 08916",San Javier,Murcia,Spain,,-17.7877120,28.6726230
+8ab4f71c,Hospital G. Universitario J.M. Morales Meseguer,"Avenida Concejal Mariano Henarejos, 13, 30740",Murcia,Murcia,Spain,+34 91 521 33 53,-5.9872720,37.3645210
+3378af33,Hospital De Molina,"Calle Extremadura, 8, 29018",Molina de Segura,Murcia,Spain,+34 94 974 85 96,-1.1810730,37.9299320
+b3c24f92,Hospital De La Vega Lorenzo Guirao,"Finca Valcorchero, 2, 10600",Cieza,Murcia,Spain,+34 93 754 89 67,-3.8015940,43.4676510
+6a0cdcba,Hospital De Cuidados Medios Villademar,"Calle Alava, 43, 01006",San Pedro del Pinatar,Murcia,Spain,+34 96 464 37 44,-5.9361230,43.5520930
+360e5e29,Hospital Comarcal Del Noroeste,"Av. de Portugal, 83, 37005",Caravaca de la Cruz,Murcia,Spain,,-0.9967790,37.6140600
+81e3cc2a,Hospital Clínico Universitario Virgen De La Arrixaca,"Calle Rafael Salgado, 3, 41013",Murcia,Murcia,Spain,+34 95 931 91 64,-1.9860610,43.2951810
+bbd305d2,Hospital C. M. Virgen De La Caridad Cartagena,"Calle Via Iberica, 1-15, 50009",Cartagena,Murcia,Spain,+34 93 988 96 56,2.1360810,41.4124760
+dc8ce339,Fundacion Hospital Real Piedad,"Calle Poeta Rodriguez Herrera, 1, 38006",Cehegín,Murcia,Spain,+34 90 677 21 51,-3.6080260,37.1639020
+e08dd841,Clínica San Felipe del Mediterráneo,"Avenida Diego Moron, 3, 21005",Murcia,Murcia,Spain,,2.1236320,41.3910720
+e6c9dfdc,Clinica Medico-Quirurgica San José,"Calle Hnos. Maristas, S/N, 26140",Alcantarilla,Murcia,Spain,,-3.6822640,42.3445230
+eaccc94c,Clinica Doctor Bernal,"Camí de Betxí, 43-55, 12540",Caravaca de la Cruz,Murcia,Spain,,-2.9516160,43.2677400
+ea4e499f,Hospital Comarcal De Melilla,"Calle De Francisco Silvela, 40, 28028",Melilla,Melilla,Spain,+34 97 727 45 40,-6.3636520,39.4820330
+59f864cd,Sanatorio Nuestra Señora Del Rosario,"Calle Carretera De Burgos, 0, 34004",Madrid,Comunidad de Madrid,Spain,+34 98 189 87 78,-4.5364640,42.0027600
+84ed3a7b,"Sanatorio Esquerdo, S.A.","Avenida Blasco Ibañez, 17, 46010",Madrid,Comunidad de Madrid,Spain,+34 90 135 76 21,-8.6472090,42.4322260
+fcf82d0f,"Ita Clinic Bcn, S.L.","Avenida Manuel Siurot, S/N, 41013",Alcalá de Henares,Comunidad de Madrid,Spain,,-3.7914090,37.7743980
+03f66a23,Instituto Psiquiátrico Servicios De Salud Mental Jose Germain - 2 Aragon,"Calle Autovia Sevilla-Huelva, S/N, 21080",Leganés,Comunidad de Madrid,Spain,+34 96 432 60 29,1.5387390,41.2261780
+96b46ae3,Instituto Psiquiátrico Servicios De Salud Mental Jose Germain - 1 Luna,"Barrio San Esteban Auzoa, 48, 20170",Leganés,Comunidad de Madrid,Spain,,-3.8314290,43.4765280
+ac332194,Instituto Provincial De Rehabilitación,"Carretera Almeria, S/N, 29790",Madrid,Comunidad de Madrid,Spain,+34 97 784 48 17,-0.4016020,39.4783520
+8f250551,Hospital Virgen Del Mar,"Carretera Sevilla-Huelva, S/N, 21005",Madrid,Comunidad de Madrid,Spain,+34 95 711 48 23,-5.6581850,43.5376430
+a82b35ad,Hospital Virgen De La Torre,"Calle Pere Ii De Montcada, 16, 08034",Madrid,Comunidad de Madrid,Spain,+34 91 112 78 20,1.0854500,41.1599500
+ef212813,Hospital Virgen De La Poveda,"Carretera Puebla De Montalban, KM. 3,6, 45071",Villa del Prado,Comunidad de Madrid,Spain,+34 93 629 28 15,-0.9932600,37.6255520
+8ed402bb,Hospital Universitario Virgen De La Paloma,"Avenida Blasco Ibañez, 14, 46010",Madrid,Comunidad de Madrid,Spain,+34 90 138 89 83,-15.4997770,28.0291580
+d134dcb9,Hospital Universitario Severo Ochoa,"Avenida Richard Grandio, S/N, 33193",Leganés,Comunidad de Madrid,Spain,+34 97 768 95 81,0.4301600,41.7391500
+8e8ca599,Hospital Universitario Santa Cristina,"Barrio Finca Zubieta, Barrio Mendelu, S/N, 20280",Madrid,Comunidad de Madrid,Spain,+34 94 533 26 93,-8.2030180,43.4941510
+4980c7c7,Hospital Universitario Rey Juan Carlos,"Carretera Vella De Llubi, S/N, 07300",Móstoles,Comunidad de Madrid,Spain,+34 99 639 88 93,2.8532580,41.7009130
+36e7164e,Hospital Universitario Quirónsalud Madrid,"Calle Leon Y Castillo, 292, 35005",Pozuelo de Alarcón,Comunidad de Madrid,Spain,+34 97 208 54 58,2.1572020,41.4139720
+38090a8e,Hospital Universitario Principe De Asturias,"Carretera Manacor - Alcudia, S/N, 07500",Alcalá de Henares,Comunidad de Madrid,Spain,+34 90 958 89 81,0.0905090,38.8251000
+00166de9,Hospital Universitario La Zarzuela,"Calle Mendez Nuñez, 40, 38003",Madrid,Comunidad de Madrid,Spain,+34 92 903 84 19,2.6305020,39.5835960
+792cd886,Hospital Universitario La Moraleja,"Avenida Del Brillante, 106, 14012",Madrid,Comunidad de Madrid,Spain,+34 92 240 27 24,2.4823670,41.5723690
+cdb7d342,Hospital Universitario Infanta Sofia,"Camino Sant Jeroni De La Murtra,, 60, 08917",San Sebastián de los Reyes,Comunidad de Madrid,Spain,+34 94 657 19 44,2.2308010,41.4589660
+0db595ab,Hospital Universitario Infanta Leonor,"Carretera Rapitan, S/N, 22700",Madrid,Comunidad de Madrid,Spain,+34 99 613 59 30,-3.6947100,40.4771100
+f783e93a,Hospital Universitario Infanta Elena,"Carretera De Ribes, S/N, 08600",Valdemoro,Comunidad de Madrid,Spain,,-3.6663010,40.4893240
+f995360e,Hospital Universitario Hm Torrelodones,"Paseo Europa, 34, 28702",Torrelodones,Comunidad de Madrid,Spain,+34 97 738 20 98,-4.1258260,40.6013130
+c407b1cb,Hospital Universitario Hm Monteprincipe,"Avenida Jacint Verdaguer, 90, 08970",Boadilla del Monte,Comunidad de Madrid,Spain,,-5.5725260,42.5899880
+69877eaf,Hospital Universitario Hm Madrid,"Calle America, 15, 43870",Madrid,Comunidad de Madrid,Spain,+34 98 376 87 22,-1.9809250,43.2899180
+1c8b8b13,Hospital Universitario General de Villalba,"Calle Pedro I Pons, 1, 08195",Collado Villalba,Comunidad de Madrid,Spain,,-3.6808620,42.3526110
+3c66ffb4,Hospital Universitario Fundación Alcorcón,"Avenida Doctor Clara, 19, 12002",Alcorcón,Comunidad de Madrid,Spain,,-3.6602650,40.4600760
+0d6ca1b6,Hospital Universitario Del Sureste,"Calle Tonico Sansano Mora, 14, 03293",Arganda del Rey,Comunidad de Madrid,Spain,+34 93 812 40 47,-8.7275900,42.2234560
+f85bac6a,Hospital Universitario De Torrejón,"Calle Sabino De  Arana, 5-19, 08028",Torrejón de Ardoz,Comunidad de Madrid,Spain,+34 91 892 49 28,-4.2317190,36.7131670
+c01adebb,Hospital Universitario De Móstoles,"Avenida Eduardo Castro, S/N, 33290",Móstoles,Comunidad de Madrid,Spain,+34 98 665 85 64,-4.7229950,41.6291680
+2a8cd2c3,Hospital Universitario De La Princesa,"Paseo Ruiseñores, 20, 50006",Madrid,Comunidad de Madrid,Spain,+34 97 425 91 25,0.5101280,40.8270660
+c9f1cf47,Hospital Universitario De Getafe,"Avenida Eduardo Dato, 42, 41005",Getafe,Comunidad de Madrid,Spain,+34 93 965 37 58,2.6469360,39.5757350
+e9c5c305,Hospital Universitario De Fuenlabrada,"Calle Garcia Mariño, 4, 08022",Fuenlabrada,Comunidad de Madrid,Spain,+34 99 915 40 85,-4.4191620,36.7208060
+4f1fc8a9,Hospital Universitario 12 De Octubre,"Avenida Academia General Militar, 74, 50015",Madrid,Comunidad de Madrid,Spain,,-6.1499840,36.4208030
+a24ff1bc,Hospital San Rafael,"Paseo Alfonso  Xiii, 61, 30203",Madrid,Comunidad de Madrid,Spain,+34 99 860 55 34,-4.4549080,36.7238260
+5a2a3c36,Hospital San Francisco De Asís,"Calle Numancia, 7-13, 08029",Madrid,Comunidad de Madrid,Spain,+34 95 939 66 78,-4.5401600,42.0158640
+2e96cd0f,Hospital San Camilo,"Calle Jaume Arcelos, 1, 17300",Madrid,Comunidad de Madrid,Spain,,-16.2533980,28.4708310
+41c7f0a5,Hospital Ruber Juan Bravo,"Carretera Cirera, 230, 08304",Madrid,Comunidad de Madrid,Spain,+34 94 648 79 89,-3.7757920,40.3314330
+9596dcb5,Hospital Ruber Internacional,"Calle Finca De La Peraleda, S/N, 45071",Madrid,Comunidad de Madrid,Spain,,-6.8584330,37.3100430
+a81312c7,Hospital Quirónsalud Sur,"Calle Mateo Inurria, 1, 28850",Alcorcón,Comunidad de Madrid,Spain,,2.7403240,39.4914760
+ec57f544,Hospital Quironsalud San José,"Avenida Octavio Augusto, S/N, S/N, 11139",Madrid,Comunidad de Madrid,Spain,+34 99 942 87 83,-1.9772510,43.3003030
+6126dcb2,Hospital Psiquiátrico Doctor Rodríguez Lafora,"Avenida De Cordoba, S/N, 28041",Madrid,Comunidad de Madrid,Spain,+34 92 538 58 81,1.6998460,41.3450810
+9a5b41c0,Hospital Pardo De Aravaca,"Avenida Las Rosas, S/N, 21440",Madrid,Comunidad de Madrid,Spain,+34 91 135 72 12,-1.9774130,42.3113610
+9fbbd5f0,Hospital Nuestra Señora De America,"Avenida Borbo, 18-30, 08016",Madrid,Comunidad de Madrid,Spain,,-13.5434420,28.9635140
+4aa43d0a,Hospital MD Anderson Cancer Center Madrid,"Urbanizacion Castañera, S/N, 33540",Madrid,Comunidad de Madrid,Spain,+34 93 689 47 67,0.1180970,42.0321990
+abce87a5,Hospital Los Madroños,"Paseo Rubio I Ors, 25-27, 08203",Brunete,Comunidad de Madrid,Spain,+34 98 450 13 57,1.8391510,41.7201780
+dc71ace5,Hospital La Milagrosa,"Calle Calatrava, 83, 08017",Madrid,Comunidad de Madrid,Spain,+34 97 722 11 39,-5.2234200,39.0315330
+ea2100df,Hospital Infantil Universitario Niño Jesús,"Calle Paraje Torrecardenas, S/N, 04009",Madrid,Comunidad de Madrid,Spain,+34 96 600 87 90,2.7924240,41.9743270
+d073b74c,Hospital HM Vallés,"Travesia De La Igualdad, S/N, 02006",Alcalá de Henares,Comunidad de Madrid,Spain,+34 93 836 82 34,-1.6629820,42.8052150
+0400ab6a,Hospital HM Nuevo Belén,"C. Alejo Fernández, 9, 41003",Madrid,Comunidad de Madrid,Spain,+34 90 680 68 27,-3.8884420,40.4029900
+18a33811,Hospital HLA Universitario Moncloa,"Calle Ayala, 2, 11130",Madrid,Comunidad de Madrid,Spain,+34 91 494 63 76,-5.8559550,43.3676100
+6c4433b1,Hospital Fuensanta,"Avenida Bilbao ( Et/Av ), S/N, 48250",Madrid,Comunidad de Madrid,Spain,+34 90 249 93 15,0.4747430,40.4710010
+87ec4e6b,Hospital Del Tajo S.A.,"Calle Irunlarrea, 3 , 31008",Aranjuez,Comunidad de Madrid,Spain,+34 92 696 42 80,-5.9359780,43.3460010
+fe5ecf11,Hospital De La V.O.T. De San Francisco De Asis,"Calle Cires, S/N, 08310",Madrid,Comunidad de Madrid,Spain,,-0.8880660,41.6337890
+4b27d497,Hospital De La Fuenfria,"Av. Manuel Siurot, 43A, 41013",Cercedilla,Comunidad de Madrid,Spain,+34 95 901 32 14,-5.9266810,37.1623780
+2b15bf07,Hospital De Guadarrama,"Av. 9 de Junio, 2, 28981 Parla, Madrid",Guadarrama,Comunidad de Madrid,Spain,+34 94 724 45 87,-4.4904480,36.6350000
+749d089c,Hospital De El Escorial,"Calle Cabruñana, 19, 33400",San Lorenzo de El Escorial,Comunidad de Madrid,Spain,+34 97 806 56 28,-2.8185270,43.2250770
+fd8b4a42,Hospital De Cantoblanco,"Calle Vilana, 12, 08022",Madrid,Comunidad de Madrid,Spain,,-2.0603850,43.2666390
+786aa03b,Hospital Centro De Cuidados Laguna,"Avenida De La Constitucion, 2, 41640",Madrid,Comunidad de Madrid,Spain,+34 90 956 31 28,2.1411990,41.4011100
+909b01c7,Hospital Central De La Defensa Gómez Ulla,"Calle Doctor Roman Alberca, S/N, 30008",Madrid,Comunidad de Madrid,Spain,+34 99 795 43 45,-15.4325660,28.1430840
+8c361c2b,"Hospital Central De La Cruz Roja, San José Y Santa Adela","Calle De Los Jardines, 1, 28350",Madrid,Comunidad de Madrid,Spain,,-5.6545570,40.9661640
+c587566f,Hospital Casaverde Madrid,"Calle Doctor Robles, S/N, 30400",Navalcarnero,Comunidad de Madrid,Spain,,-1.7989130,38.0965220
+75de569d,Hospital Carlos III,"Avenida Gongora, S/N, 14940",Madrid,Comunidad de Madrid,Spain,+34 90 708 86 19,-2.0014760,43.3038610
+fb9ab095,Hospital Beata Maria Ana,"Avenida Catalunya, 11, 08700",Madrid,Comunidad de Madrid,Spain,,-15.4297880,28.1268040
+ad51853f,Hospital Asepeyo Madrid,"Avenida La Salle, 22, 10600",Coslada,Comunidad de Madrid,Spain,+34 95 721 91 18,-5.6730920,40.9638760
+c8bb9f11,Hospital Universitario HM Puerta del Sur,"Calle Pau Casals, 5, 25620",Móstoles,Comunidad de Madrid,Spain,+34 97 857 96 48,3.0046570,39.7004470
+b3f1acf8,Hospital Fundación San José,"Calle Londres, 28-38, 08029",Madrid,Comunidad de Madrid,Spain,+34 98 925 41 11,1.8086040,41.7496220
+362247af,"Fremap, Hospital Majadahonda","Avenida Alcalde En Jaume Botella Mayor, 7, 03570",Majadahonda,Comunidad de Madrid,Spain,,-0.0010860,38.8233460
+57518140,"Fraternidad Muprespa, Mutua Colaboradora Con La Seguridad Social Nº 275","Avenida Jorda, 8, 08035",Madrid,Comunidad de Madrid,Spain,+34 95 222 75 60,-2.4280230,42.4547610
+f9fffacb,Empresa Publica Hospital Del Sur Hospital Infanta Cristina,"Calle Carretera Arrecife- Tinajo Km 1300, 0, 35500",Madrid,Comunidad de Madrid,Spain,,-0.0454500,39.9850360
+241b33f6,Empresa Publica Hospital Del Henares,"Avenida Del Aeropuerto, S/N, 14004",Coslada,Comunidad de Madrid,Spain,,-3.7170330,40.4457390
+cf8e7bfa,Complejo Asistencial Benito Menni,"Paseo De La Victoria, S/N, 14004",Ciempozuelos,Comunidad de Madrid,Spain,,-4.6707000,36.7223020
+21e9b33e,Clínica Sear,"Calle Ramon Y  Cajal, 60, 50004",Madrid,Comunidad de Madrid,Spain,,-4.4219060,36.7333880
+8e3edffd,Clínica Santa Elena,"Paseo Doctor Jose Begiristain, 109, 20014",Madrid,Comunidad de Madrid,Spain,,-2.4704650,43.1848860
+0c91ec66,Clínica San Vicente,"Calle Beloso Alto, 3 , 31006",Madrid,Comunidad de Madrid,Spain,+34 92 623 17 25,-1.4166370,38.2365460
+0c8d810d,Clínica San Miguel,"Calle Academia, 41, 25002",Madrid,Comunidad de Madrid,Spain,+34 99 930 78 98,2.2107520,41.4574500
+37c5c0e0,Clínica Nuestra Señora De La Paz,"Carretera Vella Madrid, 120, 36214",Madrid,Comunidad de Madrid,Spain,,-5.7463810,41.5168160
+f670b350,Clínica Lopez Ibor,"Calle Sant Antoni, 52, 08221",Madrid,Comunidad de Madrid,Spain,+34 98 414 44 44,-0.9032560,41.6336030
+a77786f2,"Clínica La Luz, S.L.","Calle Perez Galdos, 7-9, 02003",Madrid,Comunidad de Madrid,Spain,+34 91 820 14 43,-7.3598900,43.6521960
+601ca0f8,Clínica Isadora S.A.,"Calle Rio Jucar, S/N, 28935",Madrid,Comunidad de Madrid,Spain,+34 97 792 83 49,-3.7384750,40.3034820
+50921430,Clínica Dr. Leon,"Rambla Santa Cruz, 115, 38001",Madrid,Comunidad de Madrid,Spain,,-5.4578260,36.1101340
+dc57f9ef,Clínica Cemtro,"Paseo Alcalde Pepe Sanchez, 7, 15270",Madrid,Comunidad de Madrid,Spain,,-2.9274720,43.2685140
+58297c7b,Centro San Juan De Dios Ciempozuelos,"Plaza Barranco De La Ballena, S/N, 35012",Ciempozuelos,Comunidad de Madrid,Spain,,-15.6077170,27.7499330
+a8dff199,"Casta Salud, S.L.U.","Carretera Ciudad Rodrigo, 0, 37192",Guadarrama,Comunidad de Madrid,Spain,+34 98 118 32 68,-6.9127330,37.2805180
+92d97172,Vithas Hospital Nosa Señora De Fátima,"Carretera Autovia A-357 Málaga  - Cártama, Km 49, 29570",Vigo,Galicia,Spain,+34 97 818 82 11,-0.4733520,38.3520680
+6da16a80,Sanatorio Psiquiatrico San José,"Calle Sariñena, 12, 22004",Vigo,Galicia,Spain,,2.3960190,41.5492500
+21277108,Sanatorio Nosa Señora Dos Ollos Grandes,"Avenida Zaragoza, 10-14, 44001",Lugo,Galicia,Spain,,-0.0421950,40.0045800
+bcb2a6aa,Sanatorio La Robleda,"Calle De Pleyades, 25, 28023",O Pino,Galicia,Spain,+34 96 800 61 82,-4.5274730,37.0312660
+7d54d0bc,Hospital San Rafael,"Calle De San Bernabe, 13, 28005",A Coruña,Galicia,Spain,+34 90 810 60 98,-3.9920880,40.6478940
+b44f8662,Hospital Quirónsalud A Coruña,"Alameda Urquijo (De), 65, 48013",A Coruña,Galicia,Spain,,-4.3679330,36.7286770
+a7099531,Hospital Publico Virxe Da Xunqueira,"Calle Santiago Russinyol, 9, 07012",Cee,Galicia,Spain,+34 98 608 59 90,-7.8672980,42.3432960
+e487af51,Hospital Público Do Salnés,"Carretera Madrid-Cartagena, S/N, 30120",Vilagarcía de Arousa,Galicia,Spain,,-3.7153230,40.4894260
+ebca53fb,Hospital Público De Verín,"Mikeletegi Pasealekua, 71, 1, 20009",Verín,Galicia,Spain,+34 91 888 66 64,0.0253620,40.3562620
+9c2b76e1,Hospital Publico De Valdeorras,"Calle Hospital 28, S/N, 24401",O Barco de Valdeorras,Galicia,Spain,+34 99 217 68 91,-0.5947580,39.6245840
+39e44f74,Hospital Público De Monforte,"Avenida Del Ejercito Español, 10, 23007",Monforte de Lemos,Galicia,Spain,+34 92 648 16 25,-1.8440490,38.9854340
+a471a342,Hospital Publico Da Mariña,"Calle Baro De Viver, 58, 08310",Burela,Galicia,Spain,+34 90 892 65 57,-5.6778590,42.0041210
+e102ffe8,Hospital Publico Da Barbanza,"Lugar Jubias De Arriba, 84, 15006",Ribeira,Galicia,Spain,+34 90 584 95 16,2.6531570,39.5838860
+999f7d12,Hospital Povisa,"Avenida El Cuervo, S/N, 41740",Vigo,Galicia,Spain,,-1.6545580,42.8251930
+9d113d42,Hospital Polusa,"Calle Callosa D'En Sarria, 12, 46007",Lugo,Galicia,Spain,,-6.6929990,42.5944280
+5cd0faf0,Hospital Juan Cardona,"Calle Obispo Rafael Torija, S/N, 13005",Ferrol,Galicia,Spain,,-3.6756950,40.4343620
+4fba55f6,Hospital HM Vigo,"Calle Aragon, 17, 28913",Vigo,Galicia,Spain,,2.1429200,41.4141090
+08eb075d,Hospital HM Rosaleda - Hm La Esperanza,"Calle Torras  I  Pujalt, 1, 08022",Santiago de Compostela,Galicia,Spain,+34 96 533 31 56,2.1488540,41.4002290
+ae9a1fc6,HM Modelo-Belen,"Calle Gordoniz, 18, 48010",A Coruña,Galicia,Spain,+34 99 320 71 99,-3.7433390,43.3860260
+ea1edafb,Hestia Santa Maria,"Calle Mare De Deu De La Salut, 49, 08024",Pontevedra,Galicia,Spain,+34 99 720 77 30,-4.1076900,40.9425310
+657ebdf7,Grupo Quirónsalud Pontevedra,"Paseo Capitan Conforto, S/N, 11100",Pontevedra,Galicia,Spain,,-8.3865730,43.3448890
+5b454c2a,"Fremap, Hospital De Vigo","Calle Menorca, 26, 43006",Vigo,Galicia,Spain,,-2.5296090,43.0630190
+36b78517,Concheiro Centro Médico Quirúrgico,"C. Recogidas, 8, 3C, 18002",Vigo,Galicia,Spain,,-4.1527740,37.1708870
+a7c8be5f,Complexo Hospitalario Universitario De Vigo,"Avenida de Campanar, 66, 46009",Vigo,Galicia,Spain,+34 99 797 75 90,2.1974220,41.4143800
+b99a90fc,Complexo Hospitalario Universitario De Pontevedra,"Calle Gregori Gallego, 22-28, 25600",Pontevedra,Galicia,Spain,+34 99 978 93 22,2.1567040,41.4114050
+d13c441e,Complexo Hospitalario Universitario De Ourense,"Calle Laderas Del Mojon, S/N, 38627",Ourense,Galicia,Spain,+34 95 575 26 13,-2.6789530,42.8361150
+b3b0f678,Complexo Hospitalario Universitario De Lugo,"Calle Calle Los Barriales, 1, 38900",Lugo,Galicia,Spain,+34 90 807 38 82,-5.6488880,43.5302470
+5740a294,Complexo Hospitalario Universitario De Ferrol,"Paseo Reina  Elisenda  De  Montcada, 17, 08034",Ferrol,Galicia,Spain,,-1.0914170,39.4847530
+21830a53,Clínica Santa Teresa,"Calle Manuel De Falla, 1, 28222",Ourense,Galicia,Spain,+34 95 642 20 80,-3.6768590,40.4138900
+8ced6b02,Clínica Residencia El Pinar,"Poligono De Riaño, S/N, 33920",Vigo,Galicia,Spain,+34 98 875 91 40,-3.9599000,39.8594380
+cad1f698,Centro Oncoloxico De Galicia,"Carretera De Abaran, S/N, 30530",A Coruña,Galicia,Spain,+34 90 751 48 85,-0.9497160,41.6379770
+0915a01c,Centro Médico Pintado,"Calle Alisos, 19, 13002",Vigo,Galicia,Spain,+34 98 223 63 16,2.1271640,41.4025600
+06dabdc8,Centro Médico El Carmen,"Carretera Del Mami, Km. 1, S/N, 04120",Ourense,Galicia,Spain,+34 90 382 42 17,-1.1099020,38.6174560
+91a7638c,Hospital Virgen Del Puerto,"Camino Collet, 32, 12004",Plasencia,Extremadura,Spain,+34 93 267 42 74,2.1433040,41.3560620
+08798d58,Hospital Universitario De Cáceres,"Camino Viejo De La Fuensanta, 2, 23660",Cáceres,Extremadura,Spain,+34 98 684 58 64,2.8245100,41.9776150
+ac47e734,Hospital Universitario De Badajoz,"Paseo San Juan Bosco, 2, 05200",Badajoz,Extremadura,Spain,,-6.1242280,36.6929000
+fd7c6e16,Hospital Tierra De Barros,"Carretera Casabermeja, 126, 29014",Almendralejo,Extremadura,Spain,,-5.9879590,37.3689420
+18df17bb,Hospital Siberia-Serena,"Calle Ramon Puga, 52, 32005",Talarrubias,Extremadura,Spain,+34 99 138 24 31,-2.3115920,36.8520750
+d64b7302,Hospital San Pedro De Alcantara,"Paseo Mossen Valls Bartomeu, 1, 43590",Cáceres,Extremadura,Spain,+34 97 686 89 91,-4.4253050,37.4719230
+8c86ad57,Hospital Quironsalud Santa Justa,"Avenida Ruperta Baraya, 6, 09400",Villanueva de la Serena,Extremadura,Spain,+34 97 607 69 60,-4.8562610,36.5130920
+35210d01,Hospital Quirónsalud Clideba,"Paseo Vall D'Hebron, 119-129, 08035",Badajoz,Extremadura,Spain,,-1.2175600,37.9704630
+23f66672,Hospital Quirónsalud Cáceres,"Via Augusta, 66-70, 08950",Cáceres,Extremadura,Spain,,2.2474200,41.4501380
+300b6042,Hospital Perpetuo Socorro,"Calle La Fuentina, 0, 24193",Badajoz,Extremadura,Spain,+34 94 787 91 50,2.0104630,41.5497760
+81f4445e,Hospital Parque Vegas Altas,"Avenida De Valladolid, 83, 28008",Don Benito,Extremadura,Spain,+34 91 770 55 76,2.0747920,41.3515030
+4f6cbc91,Hospital Materno-Infantil,"Avenida Menendez Pidal, S/N, 14004",Badajoz,Extremadura,Spain,,-5.8259810,43.3835490
+ace4fb0a,Hospital General De Llerena,"Calle Espitau,, 8, 25530",Llerena,Extremadura,Spain,,-2.6766450,42.8496890
+384dc925,Hospital Fundacion San Juan De Dios,"Calle Mendarozabal, S/N, 20850",Almendralejo,Extremadura,Spain,,2.1358070,41.4121330
+958b05f3,Hospital Don Benito-Villanueva De La Serena,"Calle De Diego De Leon, 62, 28006",Don Benito,Extremadura,Spain,,-2.1688900,42.8952790
+790d40b8,Hospital De Zafra,"Calle De Juan Bravo, 49, 28006",Zafra,Extremadura,Spain,,1.8788550,41.9744570
+dfef8fbd,Hospital De Mérida,"Avenida Badajoz, 1, 06900",Mérida,Extremadura,Spain,+34 99 453 91 70,-2.6872470,42.8547190
+7db3f394,Clínica Extremeña De Salud,"Calle Balmes, 271, 08006",Badajoz,Extremadura,Spain,,-3.0072880,39.1774490
+5a9b24e5,Hospital Ciudad De Coria,"Avenida Martinez De Velasco, 36, 22004",Coria,Extremadura,Spain,+34 94 289 43 34,2.1062710,41.4996000
+04f07a1d,Hospital Campo Arañuelo,"Avenida De San Julian, 1, 16003",Navalmoral de la Mata,Extremadura,Spain,+34 94 508 53 86,1.8437570,41.4925490
+622b5a38,Clínica Soquimex,"Ctra. de Ronda, 226, 2ª Planta, 04009",Plasencia,Extremadura,Spain,+34 98 256 29 97,-5.9755470,37.3870300
+611b0b19,Clínica Quirúrgica Cacereña San Francisco,"Avenida Puerta Del Sur, S/N, 11408",Cáceres,Extremadura,Spain,+34 94 332 61 70,-4.8250540,39.9618400
+f538835f,Centro Sociosanitario De Plasencia,"Carretera Casserres (Abans Po. La Sala S/N), 1, 08692",Plasencia,Extremadura,Spain,+34 93 256 58 27,-1.6670550,42.8050520
+ebc50757,Centro Sociosanitario De Mérida,"Calle Doctor Castany,, S/N, 17190",Mérida,Extremadura,Spain,,2.1023680,41.3836680
+a7255b7b,Casaverde Centro De Rehabilitación Neurológico De Extremadura S.L.,"Plaza Pau Casals, S/N, 08402",Mérida,Extremadura,Spain,+34 91 354 17 64,-0.1080300,39.9423090
+d25c72da,Vithas Hospital Perpetuo Internacional,"Carretera Almerimar, S/N, 04700",Alicante/Alacant,Comunitat Valenciana,Spain,+34 93 206 55 71,-4.7256350,41.6552800
+94750d08,Unidad De Desintoxicacion Hospitalaria,"Avenida Pio Xii, 36 , 31008",Carcaixent,Comunitat Valenciana,Spain,+34 97 147 90 37,-3.7889950,37.7755590
+eb8346ca,Servicios Sanitarios Del Centro Penitenciario De Castellon II,"Carretera Burjassot - Torres Torres, KM 9, 46117",Albocàsser,Comunitat Valenciana,Spain,+34 99 956 66 81,2.0799720,41.4828700
+4a356ef0,Sanatorio San Jorge S.L.,"Alameda De Los Tristes, S/N, 30800",Alcoy/Alcoi,Comunitat Valenciana,Spain,+34 93 434 66 16,-3.4355170,40.4642730
+19fa8996,Sanatorio San Francisco De Borja Fontilles,"Avenida Mariana Pineda, S/N, 18500",la Vall de Laguar,Comunitat Valenciana,Spain,+34 98 932 71 16,-3.7842340,40.4629030
+d767140c,Instituto De Traumatologia De Union De Mutuas,"Avenida Doctor Castany (P. H. Marti I Julia), S/N, 17190",Castellón de la Plana/Castelló de la Plana,Comunitat Valenciana,Spain,,-8.0500000,42.8499980
+b44313ac,Hospital Virgen Del Consuelo,"Carrer de Sardenya, 466, 08025",València,Comunitat Valenciana,Spain,+34 95 500 65 99,-6.1306770,36.7040380
+d9288344,Hospital Virgen De Los Lirios,"Calle Sant Llorenç, 39-41, 08100",Alcoy/Alcoi,Comunitat Valenciana,Spain,,-5.6671530,40.9684580
+47c37117,Hospital Vega Baja De Orihuela,"Calle Antonio Rocamora, 4, 30100",Orihuela,Comunitat Valenciana,Spain,+34 90 545 24 99,-6.9701580,38.8785510
+78dfd8ec,Hospital Universitario Vinalopó,"Calle Miguel Servet, 0, 40002",Elche/Elx,Comunitat Valenciana,Spain,+34 94 361 81 95,-5.8504170,40.3359970
+1821989c,Hospital Universitario San Juan De Alicante,"Calle Av. Maritima, 8, 38660",Sant Joan d'Alacant,Comunitat Valenciana,Spain,,-4.0420240,39.8745180
+61290c6c,Hospital Universitario Dr. Peset Aleixandre,"Avenida Donantes De Sangre, 0, 34005",València,Comunitat Valenciana,Spain,+34 98 171 55 14,2.0999000,41.3477980
+733ac4c8,Hospital Universitario De Torrevieja,"Avenida De La Costa, 45, 33201",Torrevieja,Comunitat Valenciana,Spain,,-4.0681940,40.7474500
+6d6684fd,Hospital Universitario De La Ribera,"Avenida Comte De Llobregat, 117, 08760",Alzira,Comunitat Valenciana,Spain,,2.1383890,41.4147830
+cc18dc2c,Hospital Universitario De La Plana,"Calle Hermanos De La Cruz Blanca, 1, 41089",Vila-real,Comunitat Valenciana,Spain,+34 99 777 32 74,-3.7676140,40.3273480
+7f84763a,Hospital Sant Vicent Del Raspeig,"Calle Sant Antoni Maria Claret, 200, 08025",San Vicente del Raspeig/Sant Vicent del Raspeig,Comunitat Valenciana,Spain,,-1.1071150,40.3340950
+f314817a,Hospital San Carlos De Denia Grupo Hla,"Calle Avenir, 14, 08006",Dénia,Comunitat Valenciana,Spain,+34 99 573 40 23,-0.4160110,39.5212830
+74820e22,Hospital Rey D. Jaime,"Calle Del Marquesado De Santa Marta, 1, 28022",Castellón de la Plana/Castelló de la Plana,Comunitat Valenciana,Spain,+34 98 379 24 65,2.1666060,42.2225500
+ebecda7f,Hospital Quironsalud València,"Avenida Hernan Nuñez De Toledo, 5, 29018",València,Comunitat Valenciana,Spain,+34 90 344 17 30,2.0108680,41.4180170
+90b89484,Hospital Quirónsalud Torrevieja,"Paseo Doctor Fernandez Iparraguirre, 6, 19001",Torrevieja,Comunitat Valenciana,Spain,+34 97 697 76 18,2.2458570,41.4506510
+23527e9d,Hospital Público Psiquiátrico Provincial,"C. del Padre Damián, 44, 28036",Bétera,Comunitat Valenciana,Spain,+34 95 599 47 50,-4.4302910,36.7266880
+ec41ad21,Hospital Público Psiquiátrico Penitenciario De Fontcalent,"Barrio Ganzo, S/N, 39300",Alicante/Alacant,Comunitat Valenciana,Spain,,1.3036430,42.0838470
+ff975ef8,Hospital Pare Jofré,"Calle Ballets Olaeta, 4, 48014",València,Comunitat Valenciana,Spain,,-5.7316900,41.5137530
+fbaff809,Hospital Nisa València Al Mar,"Calle Partida Del Grao, S/N, 25110",València,Comunitat Valenciana,Spain,,-3.7338950,40.4331280
+b4502765,Hospital Nisa Aguas Vivas,"Paseo Paseo De Arriola, 26, 20018",Carcaixent,Comunitat Valenciana,Spain,+34 90 123 69 57,-3.9836180,40.2310440
+4edb44bd,Hospital Medimar Internacional,"Carretera M-515 (Pozuelo), 61, 28220",Alicante/Alacant,Comunitat Valenciana,Spain,,1.5420340,41.2138360
+34707c1c,Hospital Marina Baixa De La Vila Joiosa,"Pg. Manuel Girona 23, 08034",la Villajoyosa/Vila Joiosa,Comunitat Valenciana,Spain,+34 99 312 65 76,-6.3775300,39.4729530
+8b76dd05,Hospital Lluís Alcanyís de Xàtiva,"Calle Francesc Pla El Vigata, 1, 08500",Xàtiva,Comunitat Valenciana,Spain,+34 90 388 15 25,3.1232080,41.8533610
+b62a30ee,Hospital La Pedrera,"Avenida De Roma, S/N, 33011",Dénia,Comunitat Valenciana,Spain,+34 91 217 16 38,-5.9872430,37.4062830
+b2463ab2,Hospital La Magdalena,"Calle Hermana Andresa, 2, 22520",Castellón de la Plana/Castelló de la Plana,Comunitat Valenciana,Spain,+34 96 195 90 48,2.1288350,41.3992180
+4251af0a,Hospital Intermutual De Levante,"Avenida De Iberoamerica, S/N, 23680",San Antonio de Benagéber,Comunitat Valenciana,Spain,+34 97 431 93 43,-8.7179100,42.1899810
+11e8049a,Hospital IMED Valencia,"Calle Campins, 37, 08470",Burjassot,Comunitat Valenciana,Spain,+34 91 760 41 51,-0.1296130,38.7756840
+2f8ebdfe,Hospital IMED Levante,"Calle Armando Collar, S/N, 33008",Benidorm,Comunitat Valenciana,Spain,,2.6499460,39.5694500
+bfd0de7c,Hospital IMED Gandia,"Calle Camino Viejo De La Alfocea, 10, 50191",Gandia,Comunitat Valenciana,Spain,,2.1640340,41.6308210
+d8bd6825,Hospital IMED Elche,"Paseo De La Isla, 3, 09003",Elche/Elx,Comunitat Valenciana,Spain,+34 92 364 71 61,-16.7012910,28.0681000
+a77ed7ec,Hospital General Universitario De Elda-Virgen De La Salud,"Calle Madrazo, 8, 08006",Elda,Comunitat Valenciana,Spain,,2.0167390,41.5634830
+ed313f1e,Hospital General Universitario De Elche,"Avenida Habana (De La), 50, 32003",Elche/Elx,Comunitat Valenciana,Spain,+34 95 201 94 11,-6.0610040,37.3884920
+bd53e8c8,Hospital General Universitario de Castellón,"Carretera Valldemossa, 79, 07120",Castellón de la Plana/Castelló de la Plana,Comunitat Valenciana,Spain,+34 95 454 16 67,4.2420650,39.8685340
+395fe7c6,Hospital General Universitario De Alicante,"Jata Kalea, 8, 48993",Alicante/Alacant,Comunitat Valenciana,Spain,+34 96 607 36 48,-1.8656240,38.1050950
+c8571370,Hospital General De Requena,"Carretera Manacor, KM. 4, 07198",Requena,Comunitat Valenciana,Spain,+34 97 967 47 50,2.1618820,41.4375360
+45b07f9d,Hospital General De Ontinyent,"Plaza De Mariano De Cavia, 3, 28007",Ontinyent,Comunitat Valenciana,Spain,+34 99 276 21 94,-3.6799220,40.4320500
+09713e07,Hospital Francesc De Borja De Gandia,"Calle Santa Rosa, 6, 33690",Gandia,Comunitat Valenciana,Spain,,2.7868280,41.6757920
+520f0571,Hospital Doctor Moliner,"Carrer de Fluvià, 211, 08020",Serra,Comunitat Valenciana,Spain,,2.1465790,41.4352320
+a0594cf5,Hospital De Sagunto,"Calle Mare De Deu Del Coll, 22, 08023",Sagunto/Sagunt,Comunitat Valenciana,Spain,,-2.7221580,43.4204220
+e5e750d3,Hospital De Manises,"Avenida Mancomunitats Comarcals, 1, 08760",Manises,Comunitat Valenciana,Spain,,-6.0742020,36.9143160
+0d91de58,Hospital De Llíria,"Avenida Manuel Siurot, S/N, 41013",Llíria,Comunitat Valenciana,Spain,+34 94 722 30 73,-4.7206350,41.0551120
+07536efc,Hospital De La Malva-Rosa,"Calle San Lazaro, S/N, 46017",València,Comunitat Valenciana,Spain,+34 95 885 24 48,-6.6996580,38.8904740
+cd8abe6f,Hospital De Denia,"Avenida San Gregorio, 30, 50015",Dénia,Comunitat Valenciana,Spain,+34 96 234 22 73,-5.9685860,37.3205140
+c0b9ec69,Hospital De CrónicosDe Mislata - Antiguo Hospital Militar De Valencia,"Calle Ctra. Alzira-Tavernes De V., CV50, 46740",Mislata,Comunitat Valenciana,Spain,+34 93 449 29 11,-3.6908650,41.6693180
+05b81283,Hospital Comarcal De Vinaròs,"Carretera Acces Cala Sant Francesc, 5, 17300",Vinaròs,Comunitat Valenciana,Spain,+34 90 139 93 19,-5.1874800,36.4082430
+0a6ef5f1,Hospital Clinica Benidorm,"Carrer de Wellington, 30, 08005",Benidorm,Comunitat Valenciana,Spain,+34 90 213 12 23,-0.5300610,38.4049570
+7a871c63,Hospital Catolico Casa De Salud,"Calle Font I Boet, 16, 08140",València,Comunitat Valenciana,Spain,+34 94 548 40 13,-0.7939300,37.8257650
+d7253f17,Hospital Arnau De Vilanova,"Carretera Orihuela - Almoradi, S/N, 03314",València,Comunitat Valenciana,Spain,+34 98 583 82 41,-4.8743610,36.5089980
+ac8c3edc,Hospital 9 De Octubre,"Avenida França, S/N, 17007",València,Comunitat Valenciana,Spain,+34 97 796 31 48,2.1298450,41.3894070
+7ded2961,Clínica HLA Vistahermosa,"Calle Manuel Allende, 24, 48010",Alicante/Alacant,Comunitat Valenciana,Spain,,-2.4823720,43.0632780
+d06b2bf9,Centro Medico Acuario,"Avenida Mossen Josep Pons I Robada, S/N, 08923",Beniarbeig,Comunitat Valenciana,Spain,+34 95 353 99 18,2.1299190,41.3642290
+42ec3f59,Centro De Rehabilitación Neurológica Casaverde,"Calle Santa Maria Soledad, 28, 38010",Mutxamel,Comunitat Valenciana,Spain,+34 97 922 41 13,-3.6084270,40.4838760
+92196507,Casa De Reposo San Onofre,"Calle Constitucion, 18, 19003",Godella,Comunitat Valenciana,Spain,+34 93 438 12 46,2.8205950,41.9788970
+fa6a26b8,Hospital Universitario De Ceuta,"Camino De Heros, 6, 33401",Ceuta,Ceuta,Spain,+34 92 706 73 65,-4.4576060,36.6840060
+ea9cf81a,Vithas Hospital Montserrat,"Calle Canonge Moll, S/N, 07760",Lleida,Cataluña,Spain,,-5.5677890,42.6018150
+d5653f49,Villablanca Serveis Assistencials,"Calle Sant Josep, 21, 08800",Reus,Cataluña,Spain,+34 96 791 35 69,-0.8918480,41.6411460
+81218a00,Unitat Terapeutica-Educativa Acompanya'M,"Calle Eslida, 6-8, 08840",Barcelona,Cataluña,Spain,,-3.3652400,39.0044190
+8f5a6389,Unitat Polivalent Salut Mental Barcelona-Nord,"Camino Palma Romero, 7, 35300",Barcelona,Cataluña,Spain,+34 99 493 46 85,1.2549320,41.1163830
+5585f0ae,Unitat Polivalent En Salut Mental D'Amposta,"Calle De Oña, 10, 28050",Amposta,Cataluña,Spain,+34 93 553 37 36,-4.7202140,41.6559490
+791683bd,Unitat Polivalent Benito Menni En Salut Mental De L'Hospitalet-El Prat De Llobregat,"Calle Dos De Maig, 301, 08025",L' Hospitalet de Llobregat,Cataluña,Spain,+34 98 567 41 97,-5.6478060,43.5352390
+d53ee9ad,Unitat De Referencia De Psiquiatria I Trastorns De La Conducta Alimentaria - Urpi,"Plaza Doctor Robert, 5, 08221",Reus,Cataluña,Spain,+34 99 762 69 93,2.8019280,41.6879460
+b2ec2e3c,Serveis Sanitaris Sant Joan De Vilatorrada,"Avenida Gran  Via, 203, 08908",Sant Joan de Vilatorrada,Cataluña,Spain,+34 96 674 21 93,4.2642420,39.8896260
+c550c902,Serveis Sanitaris La Roca Del Valles 2,"Calle Portal Nou, 12, 17004",La Roca del Vallès,Cataluña,Spain,+34 95 639 20 61,2.1929080,41.4431730
+2e22effc,"Serveis Clinics, S.A.","Calle Casas Altas, S/N, 38399",Barcelona,Cataluña,Spain,+34 96 663 31 86,-3.7850360,40.4027900
+088ded43,Sarquavitae Bonanova,"Calle Fidel Recio, 1, 47002",Barcelona,Cataluña,Spain,+34 96 123 22 27,-0.4809940,38.3452110
+212819cb,Sar Mont Marti,"Calle Juan Ramon Jimenez, 40, 02400",Puig-reig,Cataluña,Spain,+34 93 804 87 48,-0.5352630,42.5665440
+9ca6f08f,Sar La Salut Josep Servat,"Avenida Francesc Ribas, 1, 08402",Barcelona,Cataluña,Spain,,-0.4223330,39.1603440
+5a3c9ba7,Sant Joan de Déu Terres De Lleida,"Calle Benet Messeguer, S/N, 43740",Almacelles,Cataluña,Spain,+34 94 826 21 53,-3.3894350,38.7674830
+65882b3e,Residencia Vila-Seca,"Carretera Sanlucar-Chipiona, S/N, S/N, 11540",Vila-seca,Cataluña,Spain,,-15.4214250,28.1100230
+b457a0be,Residencia Terraferma,"Avenida Ramon Y Cajal, 3, 47005",Alpicat,Cataluña,Spain,+34 90 548 24 89,-3.6102280,37.2011490
+76bec950,Residencia Santa Tecla Ponent,"Carretera Sant Joan Despi, 60, 08940",Tarragona,Cataluña,Spain,+34 98 701 64 91,-4.4538630,36.7227250
+bd49eaeb,Residencia Santa Susanna,"Carretera Clara Campoamor, 341, 36312",Caldes de Montbui,Cataluña,Spain,+34 91 398 56 46,-0.8707400,41.6858070
+f71d063a,Residencia Puig-Reig,"Paraje Los Pinos, S/N, 30396",Puig-reig,Cataluña,Spain,+34 98 124 57 95,-3.6786280,40.4073090
+f0939fb2,Residencia L'Estada,"Calle Doctor Camilo Veiras, 1, 15009",Sant Andreu de Llavaneres,Cataluña,Spain,+34 97 720 34 46,-3.6763490,40.4326660
+e0d4287a,Residencia Geriatrica Maria Gay,"Ronda Rector Arolas, S/N, 17600",Girona,Cataluña,Spain,+34 99 168 87 54,-2.4578120,42.4226720
+4fcf94ca,Residencia De Gent Gran Puig D'En Roca,"Avenida Enrique Martin Cuevas, S/N, 18600",Girona,Cataluña,Spain,+34 92 309 46 71,-5.1664120,36.7419620
+6412fec4,Residencia Alt Camp,"Calle Del Doctor Esquerdo, 83, 28007",Valls,Cataluña,Spain,+34 90 998 68 17,-1.1331120,37.9926210
+63f30e2b,Regina Sar,"Calle De Serrano, 199, 28016",Barcelona,Cataluña,Spain,+34 96 852 65 18,-6.6241880,38.8917930
+a55497bb,Reeixir,"Calle Saenz Diez, 11, 32003",Juneda,Cataluña,Spain,+34 95 637 50 66,-5.9322240,43.5523950
+dd8ce86e,Prytanis Sant Boi Centre Sociosanitari,"Paseo Del Terraple, 97, 08750",Sant Boi de Llobregat,Cataluña,Spain,+34 91 101 12 46,1.1127740,41.1533780
+1102b5e5,Prytanis Hospitalet Centre Sociosanitari,"Paseo De Sancha, 15, 29016",L' Hospitalet de Llobregat,Cataluña,Spain,+34 94 686 76 28,-2.9422230,43.2589010
+e14d7e39,Policlínica Comarcal Del Vendrell,"Calle Hospital, 36, 17230",Santa Oliva,Cataluña,Spain,,-3.7177740,40.4947400
+30ad7f74,Parc Sanitari Sant Joan De Déu - Serveis Sanitaris Centre Penitenciari Brians-2,"Carretera Torrebonica, S/N, 08227",Sant Esteve Sesrovires,Cataluña,Spain,+34 93 531 32 71,-0.8896390,41.6886780
+56c0769f,Parc Sanitari Sant Joan De Déu - Recinte Sant Boi,"Ronda Norte, Esquina C/ Gabriel Miró³, S/N, 11300",Sant Boi de Llobregat,Cataluña,Spain,,-3.9326190,38.9902580
+c975d68a,Parc Sanitari Sant Joan De Déu- Numancia,"Avenida Reyes Catolicos, 21, 28342",Barcelona,Cataluña,Spain,+34 94 216 54 30,1.5154140,41.9932690
+0b15c33d,Parc Sanitari Sant Joan De Déu - Brians 1.,"Calle Montevideo, 23, 27001",Sant Esteve Sesrovires,Cataluña,Spain,,2.1074440,41.5486300
+d72d2b62,Nou Hospital Evangelic,"Avenida Avenida De Viana, 1, 26071",Barcelona,Cataluña,Spain,+34 92 953 95 94,-2.4725270,41.7712650
+568e1359,"Mutua De Granollers, Mutua De Previsio Social A Prima Fixa","Carretera Ronda-San Pedro, Km. 2, S/N, 29400",Granollers,Cataluña,Spain,+34 99 780 48 76,-2.1468740,40.0754800
+b6a14168,Mapfre Quavitae Barcelona,"Plaza Del Madroño, 11, 02008",Barcelona,Cataluña,Spain,,2.1592000,41.4096600
+33aef6e5,Ivan Mañero Clinic,"Calle Fernandez De Alarcon, 2, 29007",Sant Cugat del Vallès,Cataluña,Spain,+34 96 977 91 54,-0.8806900,41.6426360
+fff913b7,Ita Maresme,"Camino Del Molino, 2, 28942",Argentona,Cataluña,Spain,+34 93 755 87 84,-0.3387150,39.4534450
+284feb79,Ita Maresme,"Barrio Gesalibar ( Au/Ba ), 14, 20509",Barcelona,Cataluña,Spain,+34 91 963 83 85,-8.7179100,42.1899810
+4cc000cc,"Institut Pere Mata, S.A","Calle Mendinueta, S/N , 31700",Reus,Cataluña,Spain,,-4.9637260,36.5159230
+dc8f539a,Institut Guttmann,"Paseo Paseo Doctor Beguiristain, 121, 20014",Badalona,Cataluña,Spain,,-4.0352710,38.0393300
+59ab535e,Hospital Viamed Monegal,"Calle Sant Joan De Deu, 2, 08950",Tarragona,Cataluña,Spain,,-4.7848590,37.8844960
+260dcfa8,Hospital Universitari Joan XXIII  De Tarragona,"Carretera De Llerona, S/N, 08480",Tarragona,Cataluña,Spain,+34 94 608 15 34,1.1217310,41.1448320
+cbc5d3c9,Hospital Universitari Germans Trias I Pujol De Badalona,"Carretera De La Coruña, KM.50,300, 28440",Badalona,Cataluña,Spain,,-3.8348670,40.3498650
+6b72295e,Hospital Universitari De Girona Dr. Josep Trueta,"Calle Sant Antoni Maria Claret , 135, 08025",Girona,Cataluña,Spain,+34 99 156 83 81,2.1655910,41.4096950
+5f52659f,Hospital Universitari De Bellvitge,"Avenida Menendez Pidal, S/N, 14004",L' Hospitalet de Llobregat,Cataluña,Spain,+34 95 575 65 30,-13.8647040,28.4952550
+b27583b2,Hospital Sociosanitari Pere Virgili,"Avenida Gaspar Aguilar, 90, 46017",Barcelona,Cataluña,Spain,+34 92 123 34 61,1.1444990,41.0766750
+9635d3db,Hospital Sociosanitari Mutuam Guell,"Plaza Karl Marx, 1, 08042",Barcelona,Cataluña,Spain,+34 99 505 15 44,1.6196740,41.5880180
+f7e1015b,Hospital Sociosanitari Francolí,"Paseo De San Vicente, 182, 37007",Tarragona,Cataluña,Spain,+34 95 406 57 32,2.9835040,42.2747770
+806da020,Hospital Sociosanitari De Mollet,"Av. del Río Guadiana, 45007",Mollet del Vallès,Cataluña,Spain,,-8.6817170,42.2207400
+da44b86c,Hospital Sociosanitari De Lloret De Mar,"Avenida Poeta Muã?Oz Rojas, S/N, 29200",Lloret de Mar,Cataluña,Spain,+34 91 724 64 63,-4.6878830,40.6586750
+7ad39707,Hospital Santa María,"Calle Coroleu, 50, 08030",Lleida,Cataluña,Spain,+34 97 287 80 27,2.1496050,41.4032660
+311dbdb7,Hospital Sant Rafael,"Rambla Hospital, 52, 08500",Barcelona,Cataluña,Spain,,-0.9919380,37.6081130
+c64b00d0,Hospital Sant Joan De Déu Lleida,"Avenida Pintor Joaquin Sorolla, 2, 29016",Lleida,Cataluña,Spain,+34 98 235 13 67,-5.8576620,38.9618460
+a9612d10,Hospital Sant Antoni Abat - Consorci Sanitari Del Garraf,"Calle Corregidor Nicolas Isidro, 16, 29007",Vilanova i la Geltrú,Cataluña,Spain,+34 97 478 30 54,-7.5670990,43.0120190
+eb7ceb9b,Hospital Sanitas Cima,"Calle Doutor Iglesias Otero, S/N, 27004",Barcelona,Cataluña,Spain,+34 96 958 86 47,-2.9406770,43.2583480
+e8d3345e,Hospital Quirón Salud Del Valles - Clínica Del Valles,"Calle Guillem Tell, 4, 08006",Sabadell,Cataluña,Spain,,1.2487440,41.1188980
+71b3386f,Hospital Mare de Déu de la Mercè,"Calle Altos De Nava, 0, 24001",Barcelona,Cataluña,Spain,+34 95 404 28 52,-2.9934090,43.2969950
+4c744969,Hospital Jaume Nadal Meroles,"Carretera Canyet, S/N, 08916",Lleida,Cataluña,Spain,,-17.9148510,27.8138070
+e50751f1,Hospital General Penitenciari,"Paraje Paratge Cabeço De L'Aguila, Cv 35, S/N, 46160",Terrassa,Cataluña,Spain,,2.8172100,42.0000390
+673cd649,Hospital El Pilar,"Avenida Rovira Roure, 116, 25198",Barcelona,Cataluña,Spain,+34 97 948 82 84,-4.7891100,37.8710540
+5fc847f5,Hospital Egarsat Sant Honorat,"Carretera Tarazona, KM. 3 , 31500",Barcelona,Cataluña,Spain,+34 94 454 84 37,-2.7844270,36.7783180
+6c5d692f,Hospital de Santa Caterina,"Carretera Caceres, 0, 10600",Salt,Cataluña,Spain,+34 96 602 48 61,-0.7117360,38.2663330
+81f30df9,Hospital De Sant Llàtzer,"Avenida De Las Fuerzas Armadas, 2, 18014",Terrassa,Cataluña,Spain,+34 98 135 21 11,0.8254100,41.5481070
+f3c6ab23,Hospital De Sant Jaume,"Avenida Dtres. Fernandez Vega, 34, 33012",Manlleu,Cataluña,Spain,,-8.7663500,42.5874720
+7814c45e,Hospital De Sant Jaume,"Calle San Servando, S/N, 45006",Blanes,Cataluña,Spain,+34 94 878 56 61,-6.9912670,42.4168680
+49a4d600,Hospital De Sant Andreu,"Camino Cumbre (De La), 28, 38713",Manresa,Cataluña,Spain,+34 90 264 91 74,2.1757520,41.4101140
+82612a7e,Hospital De Nens De Barcelona,"Calle Padre Cueto, 26, 35008",Barcelona,Cataluña,Spain,,-5.8193190,43.3824320
+4a6fa0dd,Hospital De La Santa Creu,"Calle Arttysur  - P. E. T. Las Marismas De Palmones, S/N, 11379",Tortosa,Cataluña,Spain,+34 96 277 91 49,0.3355830,41.5271830
+69ed45ae,Hospital De L'Esperança,"Avenida D. Emiliano Garcia Roldan, 2, 13200",Barcelona,Cataluña,Spain,+34 90 480 92 45,-4.7118760,41.6298240
+5ce954e5,Hospital De Cerdanya / Hopital De Cerdagne,"Calle Medicos Sin Fronteras, 7, 24411",Puigcerdà,Cataluña,Spain,+34 98 927 64 56,-3.1657250,40.6300750
+c34d0951,Hospital Comarcal Del Pallars,"Calle Leon Y Castillo, 407, 35007",Tremp,Cataluña,Spain,,-0.9877580,37.6155780
+5dbb8b1a,"Hospital Clinic De Barcelona - La Maternitat i Sant Ramon, Seu Sabino De Arana","Calle Vall De Venecia,, 59, 17310",Barcelona,Cataluña,Spain,+34 96 963 73 29,-3.8761170,40.3070850
+6d6046e1,Hestia Stauros,"Calle Lorca, 58, 30120",Barcelona,Cataluña,Spain,,0.6266400,41.6222780
+85e06987,Hestia Palau,"Calle Mourente, S/N, 36071",Barcelona,Cataluña,Spain,,-2.9443920,43.3270990
+c0c9ea0f,Hestia Gràcia,"Calle De Arturo Soria, 103-105-107, 28043",Barcelona,Cataluña,Spain,+34 91 196 72 25,-2.4171670,36.8596560
+ad59d38a,Hestia Duran I Reynals,"Partida De La Loma, S/N, 03184",L' Hospitalet de Llobregat,Cataluña,Spain,+34 96 109 53 79,0.6206530,41.6128430
+b4a933d7,Hestia Balaguer,"Avenida Del Ventisquero De La Condesa, 46, 28035",Balaguer,Cataluña,Spain,+34 94 809 79 77,2.2872670,42.0013930
+b0128a3d,Germanes Hospitalaries. Hospital Sagrat Cor.,"Carretera Vila-Real A Borriana, KM 0,5, 12540",Martorell,Cataluña,Spain,,0.7973630,42.7017710
+56bc38d1,Fundació Sanitaria Sant Josep,"Carretera Orba-Vall De Laguar, Km 4 Numero, S/N, 03791",Igualada,Cataluña,Spain,+34 94 947 14 98,-5.9823900,37.4006160
+8c47971c,Fundació Puigvert,"Calle Oliver, 55, 03802",Barcelona,Cataluña,Spain,+34 94 399 10 44,-15.4232410,28.1015740
+7bd2cdbd,"Fremap, Hospital De Barcelona","Paseo Vall D'Hebron, 135-141, 08035",Barcelona,Cataluña,Spain,+34 95 358 19 77,1.1109480,41.1423570
+27a8b01f,Comunitat Terapèutica Arenys De Munt,"Calle San Juan Bosco, 41, 29014",Arenys de Munt,Cataluña,Spain,,-3.7828590,40.2183210
+a5a61bae,Clínica Tres Torres - UOMI Cancer Center,"Avenida Denia, 103, 03015",Barcelona,Cataluña,Spain,,-5.6491500,36.8625720
+48c32165,Clínica Solarium,"Avenida Sant Josep De La Muntanya, 12, 08024",Barcelona,Cataluña,Spain,+34 90 655 44 18,-4.6672160,40.6662100
+b797a431,Clínica Santa Creu,"Avenida De La Reina Victoria, 22-26, 28003",Figueres,Cataluña,Spain,+34 98 335 97 89,1.2422110,41.1245740
+30a3c5c6,Clinica Sant Josep,"Avenida Tamarix, 4, 11407",Vic,Cataluña,Spain,+34 99 142 44 68,2.8142550,41.9744530
+3381704a,Clínica Sant Josep,"Avenida Josep Laporte, 2, 43204",Manresa,Cataluña,Spain,+34 97 722 99 85,-0.8794250,41.6568370
+1e42835c,Clínica Sant Antoni,"Ronda Del Sur, 10, 28500",Barcelona,Cataluña,Spain,,-3.2184100,39.3946070
+44806377,Clínica Sagrada Familia,"Barrio Labeaga, 46A, 48960",Barcelona,Cataluña,Spain,+34 92 799 85 91,2.4488860,41.5396960
+e48d9296,Clínica Quirúrgica Onyar,"Paseo La Estacion, 40, 23008",Girona,Cataluña,Spain,+34 97 782 22 56,-16.5329570,28.3860930
+7d60cff1,Clínica Psiquiatrica Bellavista,"Avenida De La Investigacion, S/N, 18016",Lleida,Cataluña,Spain,+34 98 928 87 58,-1.7208630,37.6208310
+fa5aacc4,Clínica Planas,"Plaza Estacio, 12, 08030",Barcelona,Cataluña,Spain,+34 94 992 10 41,1.2386270,41.1250300
+e41e90ae,Clínica Nostra Senyora Del Remei,"Camino De La Botica, S/N, 04131",Barcelona,Cataluña,Spain,+34 92 877 31 69,-4.4255080,36.7583700
+2a509a8d,Clínica Nostra Senyora De Guadalupe,"Carretera D'Olot, 7, 08560",Esplugues de Llobregat,Cataluña,Spain,+34 96 310 82 52,2.6496280,39.5893520
+d81b20e2,Clínica Mc Londres,"Avenida Del Faro, 33, 39012",Barcelona,Cataluña,Spain,+34 90 924 51 37,-3.4420360,43.4147720
+0f8d3b42,Clínica Mc Copernic,"Carretera Nacional 340, S/N, 29680",Barcelona,Cataluña,Spain,+34 92 166 96 35,2.1458920,41.3969840
+98785999,Clínica Lluria,"Calle Santiago, 14, 28801",Barcelona,Cataluña,Spain,+34 93 490 25 41,-6.5535920,43.1778320
+e3504906,Clínica HLA Perpetuo Socorro De Lerida,"Ronda Exterior Norte, S/N, 21005",Lleida,Cataluña,Spain,+34 91 443 26 91,2.2089780,41.4510730
+c0aaac41,Clínica Galatea,"Calle De Arturo Soria, 204, 28043",Barcelona,Cataluña,Spain,,2.9611140,42.2620480
+da670bc0,Clínica Diagonal,"Calle Els Mascarrells, S/N, 12140",Esplugues de Llobregat,Cataluña,Spain,,-16.2676990,28.4696250
+83d33094,Clínica Creu Blanca,"Carretera Clara Campoamor, 341, 36312",Barcelona,Cataluña,Spain,+34 96 265 29 88,-7.5620450,43.0118720
+222a994d,Clínica Coroleu - SSR Hestia,"Calle Francesc Ribas, 59, 08402",Barcelona,Cataluña,Spain,+34 97 509 93 74,-1.8482240,38.9862710
+02ff669a,Clínica Activa Mutua 2008,"Calle Los Prados, 395, 33203",Tarragona,Cataluña,Spain,,-3.6938470,40.4749540
+d33175aa,Centres Assistencials Dr. Emili Mira I Lopez - Recinte Torribera,"Avenida Canadenca, S/N, 25001",Santa Coloma de Gramenet,Cataluña,Spain,+34 98 440 82 68,-0.4047160,39.5020560
+5416769d,Centre Vallparadis,"Calle Mezquita (Paraje Los Arcos), S/N, 30202",Terrassa,Cataluña,Spain,+34 99 167 52 67,-4.8644130,36.5092960
+7b153a33,Centre Sociosanitari Vergé Del Puig,"Calle Langrero, S/N, 38800",Sant Celoni,Cataluña,Spain,+34 90 941 41 39,-1.8577540,38.9897330
+bd4ed6f6,Centre Sociosanitari Sarquavitae Sant Jordi,"Calle Casablanca, S/N, 46340",Cornellà de Llobregat,Cataluña,Spain,+34 99 222 96 64,-3.5461960,40.4190480
+2715096b,Centre Sociosanitari Sant Jordi De La Vall D'Hebron,"Calle Naranjo De Bulnes, 4-6, 33012",Barcelona,Cataluña,Spain,,-3.6776060,40.4327220
+4b60e6aa,Centre Sociosanitari Ricard Fortuny,"Avenida Pintor Baeza, 12, 03010",Vilafranca del Penedès,Cataluña,Spain,+34 96 114 55 91,-0.8911360,41.6377870
+4e1aeb0c,Centre Sociosanitari Parc Hospitalari Martí i Julià,"Camino De Tarragona, 10, 43204",Salt,Cataluña,Spain,+34 91 241 44 19,-6.3216780,42.9406570
+f156d1ac,Centre Sociosanitari Mutuam Girona,"Carretera De Colmenar Viejo, K.13,8, 28049",Girona,Cataluña,Spain,,-4.4300890,36.7282220
+b38a7550,Centre Sociosanitari Llevant,"Calle Valdes, S/N, 11500",Tarragona,Cataluña,Spain,,-0.9127580,41.6359340
+623dde96,Centre Sociosanitari Isabel Roig,"Calle Luis Montoto, 100, 41018",Barcelona,Cataluña,Spain,+34 91 755 23 71,-2.7677220,37.4903820
+4624b562,Centre Sociosanitari i Residencia Assistida Salou,"Avenida Conde De Fenosa, 50, 32300",Salou,Cataluña,Spain,+34 90 724 94 80,-1.1315260,42.1228350
+d298c8c9,Centre Sociosanitari El Carme,"Calle Beniadla, S/N, 03700",Badalona,Cataluña,Spain,,-3.9245570,40.5715620
+0eb42a71,Centre Sociosanitari Del Centre Integral De Salut Cotxeres,"Carretera Sos, S/N, 50670",Barcelona,Cataluña,Spain,+34 98 335 63 93,2.1373350,41.3882890
+ad1f9faf,Centre Sociosanitari De Puigcerdà,"Calle Aprestadora, 43-45, 08902",Puigcerdà,Cataluña,Spain,+34 91 506 69 24,-16.2881730,28.4478360
+b0c7b01c,Centre Sociosanitari De L'Hospitalet - Consorci Sanitari Integral,"Avenida Tierno Galvan, S/N, 18300",L' Hospitalet de Llobregat,Cataluña,Spain,,2.5413760,41.6102600
+415501b0,Centre Sociosanitari D'Esplugues,"Calle Maria Vidal, 19, 08340",Esplugues de Llobregat,Cataluña,Spain,+34 93 771 34 88,-2.4407780,42.4555130
+c7ad8937,Centre Sociosanitari Ciutat De Reus,"Avenida De Los Argonautas, S/N, 29630",Reus,Cataluña,Spain,,2.1480930,41.4063900
+cf2be4f6,Centre Sociosanitari Can Torras,"Grupo Argixao, S/N, 20700",Alella,Cataluña,Spain,,-3.7139120,40.4090480
+fa7eb42b,Centre Sociosanitari Blauclínic Dolors Aleu,"Paseo Mariano Renovales, S/N, 50006",Barcelona,Cataluña,Spain,+34 93 482 65 75,-6.0848900,40.0323800
+77808a26,Centre Sociosanitari Bernat Jaume,"Carretera Cobisa, S/N, 45004",Figueres,Cataluña,Spain,+34 91 467 58 88,-13.4835330,29.0030890
+3f013d7d,Centre Social i Sanitari Frederica Montseny,"Carretera Torreblanca-Mairena Km. 3,5, S/N, 41007",Viladecans,Cataluña,Spain,,-4.0859770,40.6694950
+f7189efe,"Centre Sanitari Del Solsonès, Fpc","Lugar Salmon, S/N, 15993",Solsona,Cataluña,Spain,+34 92 980 27 31,-3.7914090,37.7743980
+8d102c9f,Centre Polivalent Can Fosc,"Avenida Medicina (De La), 6, 46702",L' Ametlla del Vallès,Cataluña,Spain,+34 91 703 58 51,2.1064650,41.3740710
+5b4be63a,Centre Palamós Gent Gran,"Avenida Santa Maria (De), 9, 36002",Palamós,Cataluña,Spain,+34 92 800 71 86,-15.3831090,28.0145570
+1b13a4f4,Centre Mq Reus,"Carretera Murcia, Km. 1,6, S/N, 18800",Reus,Cataluña,Spain,,-1.5266170,43.1473990
+1df296e7,Centre Medic Sant Jordi De Sant Andreu,"Avenida Miguel De Cervantes C/V Ctra. Provencio, KM. 0,3, 02600",Barcelona,Cataluña,Spain,+34 96 173 13 96,2.1095560,41.3449910
+925b800e,"Centre Medic Molins, Sl","Calle Don Jose Maria Lopez Malla, 3, 28600",Molins de Rei,Cataluña,Spain,,2.1598200,41.3924720
+ff9661b6,Centre La Creueta,"Calle Caramanxel, S/N, 03804",Sabadell,Cataluña,Spain,,-3.7167150,42.3411140
+1e58eead,Centre Integral De Serveis En Salut Mental Comunitaria,"Carrer de Pomaret, 20, 08017",Barcelona,Cataluña,Spain,,-8.3881700,43.3390600
+da594032,Centre Hospitalari Policlínica Barcelona,"Calle Provença, 36, 17230",Barcelona,Cataluña,Spain,,-3.6253670,40.4479360
+f5bc53ec,Centre Geriatric Del Maresme,"Calle Fernando Pessoa, 47-51, 08030",Mataró,Cataluña,Spain,+34 94 694 76 76,-2.0688700,43.1407900
+87f00a7d,Centre Forum,"Carretera Ctra Valencia-Ademuz, KM 11,700, 46184",Barcelona,Cataluña,Spain,,-15.5433500,27.7733370
+bd7ccc4d,Centre de Prevenció i Rehabilitació Asepeyo,"Calle Llobregat, 75, 08692",Sant Cugat del Vallès,Cataluña,Spain,+34 92 407 97 25,-0.2326390,38.5077510
+c36bf3eb,Centre D'Oftalmologia Barraquer,"Paseo Urezarantza, 1, 48630",Barcelona,Cataluña,Spain,,-5.9690250,36.2454320
+09c5dc73,Centre D'Hospitalitzacio I Hospital De Dia Trastorns De La Conducta,"Carretera Canyet, S/N, 08916",Argentona,Cataluña,Spain,,2.0137910,41.3114420
+03431454,Centre Collserola Mutual,"Avenida De Bellavista, S/N, 41014",Barcelona,Cataluña,Spain,,-3.7729940,40.3238860
+289b9548,"Castell D'Oliana Residencial,S.L","Calle Tomas Yuste Miron, 0, 10300",Oliana,Cataluña,Spain,,-0.4872580,38.3627230
+d28a35e8,Casal De Curació,"Calle Molin Los Canales, S/N, 33011",Vilassar de Mar,Cataluña,Spain,+34 94 394 95 73,1.2132910,41.1235580
+29b6927a,Benito Menni Complex Assistencial En Salut Mental,"Calle Londres, 2, 15009",Sant Boi de Llobregat,Cataluña,Spain,,-3.9168000,43.4310670
+fe4d9781,Benito Menni Complex Assistencial En Salut Mental,"Calle Cervantes, 75, 10800",Granollers,Cataluña,Spain,+34 95 954 92 84,-0.4033090,39.4902970
+b625e861,Aptima Centre Clinic - Mutua De Terrassa,"Via Hispanidad, 37, 50012",Terrassa,Cataluña,Spain,+34 90 642 49 59,1.6191080,41.5826220
+77ad3f7a,Antic Hospital De Sant Jaume I Santa Magdalena,"Lugar Diseminado Cuesta De Caraballo, 11, 35450",Mataró,Cataluña,Spain,+34 95 702 90 96,-8.7089350,42.2346450
+57298d6d,Unidad De Rehabilitación Psiquiátrica Nuestra Señora De La Fuencisla,"Calle Doctor Alejandro Otero, 8, 18004",Palazuelos de Eresma,Castilla y León,Spain,,2.1086340,41.5463580
+4e949b55,Sanatorio Sagrado Corazón,"Calle Hernan Cortes, 40, 49071",Valladolid,Castilla y León,Spain,+34 90 978 65 88,-2.9474520,35.2864370
+734eb4fb,Hospital Virgen Del Mirón - Complejo Asistencial De Soria,"Partida Plana Est, 4, 03700",Soria,Castilla y León,Spain,,2.2524520,41.9290030
+5a27c0e5,Hospital Virgen De La Concha - Complejo Asistencial De Zamora,"Avenida Montevideo, 16-18, 48013",Zamora,Castilla y León,Spain,+34 96 739 33 98,2.1305640,41.4118160
+60708dde,Hospital Valle De Laciana,"Glorieta Del Ejercito S/N, S/N, 28047",Villablino,Castilla y León,Spain,+34 95 412 31 81,-3.8486590,40.3430010
+8f877628,Hospital Universitario Del Río Hortega,"Calle Enrique Wolfson, 8, 38006",Valladolid,Castilla y León,Spain,,1.2512240,41.1187130
+52a4292c,Hospital Universitario De Burgos - Complejo Asistencial Univer. De Burgos,"Calle Juan Del Rey Calero, S/N, 14400",Burgos,Castilla y León,Spain,+34 98 179 97 84,-1.2723210,42.2813840
+cd909984,Hospital Santos Reyes,"Carretera De Ronda, S/N, 04009",Aranda de Duero,Castilla y León,Spain,,-8.3894390,43.3370110
+070437ea,Hospital Santiago Apostol,"Calle Senador Castillo Olivares, 15, 35003",Miranda de Ebro,Castilla y León,Spain,+34 90 347 19 27,2.1458050,41.3893170
+cd1498ac,Hospital Santa Isabel - Complejo Asistencial Universitario De León,"Calle Feliciano Rolan, 12, 36203",León,Castilla y León,Spain,+34 97 902 65 56,2.3071420,41.4766860
+54f0b6d5,Hospital Santa Barbara - Complejo Asistencial De Soria,"Avenida De Barber, 30, 45004",Soria,Castilla y León,Spain,,-4.1232300,40.9527450
+6581301d,Hospital San Telmo - Complejo Asistencial De Palencia,"Calle Severo Ochoa, 5, 26200",Palencia,Castilla y León,Spain,,-8.7220900,42.2295150
+49ca2dcc,Hospital San Juan De Dios Leon,"Calle Manuel Olivie, 11, 36203",San Andrés del Rabanedo,Castilla y León,Spain,+34 93 948 74 96,2.1738660,41.3973520
+138bbbd2,Hospital San Juan De Dios Burgos,"Avenida Bases De Manresa, 6-8, 08242",Burgos,Castilla y León,Spain,,2.0974340,41.3785740
+29e4de37,Hospital Río Carrión - Complejo Asistencial De Palencia,"Calle Beloso Alto, 32 , 31006",Palencia,Castilla y León,Spain,,-3.7164080,40.4571760
+95b53331,Hospital Residencia Asistida La Luz,"Paraje Torre Octavio, S/N, 30739",Aranda de Duero,Castilla y León,Spain,+34 93 639 45 93,-5.9689770,37.3816540
+df860cf2,Hospital Recoletas Zamora,"Paseo Mossen Lluis Constans, 130, 17820",Zamora,Castilla y León,Spain,+34 94 297 62 34,-6.3025370,36.5328080
+92dbc797,Hospital Recoletas Segovia Nuestra Señora De La Misericordia,"C. de Melchor Fernández Almagro, 3, 28029",Segovia,Castilla y León,Spain,+34 92 328 52 28,-2.4641370,41.7697050
+72d991a5,Hospital Recoletas Palencia,"Avenida De Los Condes, S/N, 39109",Palencia,Castilla y León,Spain,,-1.6211820,42.8195200
+04719055,Hospital Recoletas Burgos,"Avenida De La Constitucion, 3, 13600",Burgos,Castilla y León,Spain,+34 95 280 17 30,-0.4702050,38.7094920
+db1b90e0,Hospital Psiquiatrico San Luis,"Calle Hospital, 29-31, 08301",Palencia,Castilla y León,Spain,+34 97 151 24 98,2.2678980,41.6671180
+fa3a8498,Hospital Provincial De Zamora - Complejo Asistencial De Zamora,"Carretera Nacional 630, 0, 06200",Zamora,Castilla y León,Spain,,-5.9847500,37.3862100
+c1328d64,Hospital Provincial De Ávila - Complejo Asistencial De Ávila,"Avenida Ana De Viya, 21, 11009",Ávila,Castilla y León,Spain,+34 98 636 91 53,-16.2929150,28.4600450
+ff90eca3,Hospital Nuestra Señora De Sonsoles - Complejo Asistencial De Ávila,"Finca El Mayayo, 16, 30120",Ávila,Castilla y León,Spain,+34 97 971 85 34,-3.6085740,37.1513970
+3d11e406,Hospital Monte San Isidro - Complejo Asistencial Universitario De León,"Poligono 53 Parcela 72, S/N, 11150",León,Castilla y León,Spain,+34 92 111 65 81,-3.6835100,40.4427860
+7f3aaf8a,Hospital Medina Del Campo,"Calle Del Pinar De San Jose, 98, 28054",Medina del Campo,Castilla y León,Spain,+34 99 222 24 39,-3.1522470,40.6197890
+83c6f8b8,Hospital Los Montalvos - Complejo Asistencial Universitario De Salamanca,"Avenida Garraf, 3, 08720",Carrascal de Barregas,Castilla y León,Spain,+34 98 673 13 68,-1.2112400,38.0617320
+8b5c831f,Hospital HM Regla,"Calle Sanatorio, 5, 29620",León,Castilla y León,Spain,+34 92 780 37 46,-5.8380560,43.3593090
+07bac343,Hospital General De Segovia - Complejo Asistencial De Segovia,"Calle Ercilla, 10, 48009",Segovia,Castilla y León,Spain,+34 97 833 73 93,-0.4171290,42.1413690
+dc60f355,Hospital General De La Santísima Trinidad,"Avenida Paisos  Catalans, 86, 17800",Salamanca,Castilla y León,Spain,+34 92 660 44 43,-4.8970260,36.5167190
+abe8323e,Hospital Fuente Bermeja - Complejo Asistencial Universitario De Burgos,"Avenida Elvas, 0, 06006",Burgos,Castilla y León,Spain,+34 98 257 16 59,-3.8028310,43.4764490
+b5a06c86,Hospital El Bierzo,"Calle Del Principe De Vergara, 53, 28006",Ponferrada,Castilla y León,Spain,,2.1457560,41.3884610
+8376d9b5,Hospital De Valladolid Felipe II,"Calle San Clemente, 12, 46015",Valladolid,Castilla y León,Spain,+34 93 430 83 15,2.0167390,41.5634830
+916ce9d3,Hospital De Salud Mental Casta Salud Arévalo,"Plaza Antoni Guitart,, 1, 25280",Arévalo,Castilla y León,Spain,+34 96 451 51 30,2.1434320,41.4280050
+945069b3,Hospital De La Reina,"Xubias de Arriba, 1, 15006",Ponferrada,Castilla y León,Spain,,1.7255680,41.2241520
+3b7cd5f1,Hospital De Benavente - Complejo Asistencial De Zamora,"Plaza Alfons Comin, 5-7, 08023",Benavente,Castilla y León,Spain,+34 99 467 88 10,-3.7168030,40.4935790
+e939cbe0,Hospital Clínico Universitario De Salamanca,"Calle De Honduras, 14, 28016",Salamanca,Castilla y León,Spain,+34 96 618 63 36,2.4775330,41.6847540
+451b4762,Hospital Clínico Universitario,"Carretera Rosario (Del), 145, 38010",Valladolid,Castilla y León,Spain,+34 98 873 85 45,2.6573600,41.6147600
+ab1a298b,Hospital Campo Grande,"Calle Consell De Cent, 437, 08009",Valladolid,Castilla y León,Spain,,2.1427330,41.4146290
+232d59e6,"GenesisCare Ávila, Clínica Santa Teresa","Calle Via Norte, 48, 36206",Ávila,Castilla y León,Spain,+34 94 510 74 68,-1.0901540,37.6410120
+1ed21dce,Clínica San Francisco,"Calle Concepcion, 24, 06700",León,Castilla y León,Spain,+34 93 219 11 74,-1.6251630,42.8324960
+06fbe734,Clínica Ponferrada,"Calle Villarroel, 170, 08036",Ponferrada,Castilla y León,Spain,+34 92 515 39 26,-0.5020700,39.5648180
+3f5cacf6,Clínica Altollano,"Calle Francesc Moragas, 2, 08950",Villaquilambre,Castilla y León,Spain,,-3.6848900,42.3619440
+1a2cac2c,Centro Hospitalario Padre Benito Menni,"Carretera N-240, , 25100",Valladolid,Castilla y León,Spain,+34 92 151 36 95,2.1063060,41.3736040
+e1cf361d,Area Psiquiatrica Del Centro Asistencial San Juan De Dios,"Plaza Hospital, 3, 07012",Palencia,Castilla y León,Spain,+34 98 874 64 25,-8.5623350,42.8680710
+34d46786,Servicios Sanitarios Y Asistenciales,"Paseo Maritim De La Barceloneta, 25, 08003",Ciudad Real,Castilla - La Mancha,Spain,+34 96 204 56 90,2.3874450,41.5017200
+6d071621,Instituto De Enfermedades Neurologicas De Castilla-La Mancha,"Avenida De Asturias, 0, 24100",Guadalajara,Castilla - La Mancha,Spain,+34 91 894 43 70,-5.7210190,43.3247040
+13244f13,Hospital Virgen De La Salud,"Calle Cardenal Landazuri, 2, 24003",Toledo,Castilla - La Mancha,Spain,,2.1095560,41.3449910
+fc5bf8a1,Hospital Virgen De La Luz,"Calle Erburu, S/N , 31800",Cuenca,Castilla - La Mancha,Spain,+34 95 260 76 64,-15.4471210,28.1134720
+30ad16f7,Hospital Virgen De Altagracia,"Carretera De M-600 (Guadarrama), KM.6,255, 28200",Manzanares,Castilla - La Mancha,Spain,+34 97 910 34 11,-3.8091080,37.7694320
+6482e42e,Hospital Universitario Nuestra Señora Del Perpetuo Socorro,"Calle Jesus Del Gran Poder, 42, 05003",Albacete,Castilla - La Mancha,Spain,,2.1748360,41.4158500
+bf3cf164,Hospital Universitario De Guadalajara,"Calle Esplanetes, 44, 43500",Guadalajara,Castilla - La Mancha,Spain,+34 96 420 79 56,-3.6699310,40.4189870
+872237dd,Hospital Santa Bárbara,"Calle Hermanos Falco, 37, 02006",Puertollano,Castilla - La Mancha,Spain,+34 93 297 56 32,2.1105970,41.5582260
+f7b7dd51,"Hospital Recoletas Cuenca, S.L.U.","Carretera Santa Cruz Laguna, 53, 38009",Cuenca,Castilla - La Mancha,Spain,+34 97 398 15 33,-2.4352930,36.8206420
+10d4185e,Hospital Quirónsalud Toledo,"Avenida De La Cruz Roja, 1, 41009",Toledo,Castilla - La Mancha,Spain,,-6.3093660,38.9233500
+30b7cafc,Hospital Quirónsalud Ciudad Real,"Calle San Juan Bosco, 15, 50009",Ciudad Real,Castilla - La Mancha,Spain,,2.0104630,41.5497760
+f04929f1,Hospital Quirónsalud Albacete,"Calle Romería, 7, 11510",Albacete,Castilla - La Mancha,Spain,+34 97 504 92 53,-7.5352550,43.0185790
+6f765624,Hospital Provincial Nuestra Señora de La Misericordia,"Glorieta Doctor Felix Rodriguez De La Fuente, S/N, 11408",Toledo,Castilla - La Mancha,Spain,+34 99 225 86 75,-4.5521870,36.6012090
+da562081,Hospital Nacional De Parapléjicos,"Calle Hermandad Donantes De Sangre, 1, 16002",Toledo,Castilla - La Mancha,Spain,,2.7668870,42.1158760
+df82ff55,Hospital Geriatrico Virgen Del Valle,"Avenida Tres Cruces, 2, 46014",Toledo,Castilla - La Mancha,Spain,,-13.5615330,28.9588900
+82ddf5d4,Hospital General Universitario De Albacete,"Avenida Blas Infante, S/N, 23740",Albacete,Castilla - La Mancha,Spain,+34 90 889 76 26,-6.3665530,39.4545900
+4f441db3,Hospital General Nuestra Señora Del Prado,"Calle Ulises Romero, 1, 27003",Talavera de la Reina,Castilla - La Mancha,Spain,,2.2376410,41.4763930
+3220a66f,Hospital General La Mancha Centro,"Calle Rio Tajo, 1, 46011",Alcázar de San Juan,Castilla - La Mancha,Spain,+34 96 399 54 37,2.8172100,42.0000390
+36b9beb1,Hospital General De Villarrobledo,"Calle Virrey Osorio, 30, 15011",Villarrobledo,Castilla - La Mancha,Spain,+34 96 822 68 33,-3.6706800,40.4214980
+d9e3509d,Hospital General De Valdepeñas,"Carretera Nacional 630, Km. 140, 24008",Valdepeñas,Castilla - La Mancha,Spain,+34 92 865 80 45,-3.3967030,40.4849630
+cfdf42cd,Hospital General De Tomelloso,"Calle Brigadas Internacionales, S/N, 41710",Tomelloso,Castilla - La Mancha,Spain,,-6.0082980,37.3814700
+2b3c7e14,Hospital General De Ciudad Real,"Barrio Gesalibar, 15, 20509",Ciudad Real,Castilla - La Mancha,Spain,+34 91 553 30 24,-7.8661750,42.3427810
+8a4b9749,Hospital General De Almansa,"Calle De Arturo Soria, 17, 28027",Almansa,Castilla - La Mancha,Spain,+34 94 270 52 46,-0.3939210,39.4534230
+d76acae1,Hospital De Hellín,"Carretera Alcala-Dos Hermanas, S/N, 41500",Hellín,Castilla - La Mancha,Spain,,-5.9820540,37.3620960
+1bd679c9,Clínica Santa Cristina Albacete,"Calle Profesor Perez Pimentel (La Guia - Somio), 30, 33203",Albacete,Castilla - La Mancha,Spain,+34 95 867 95 95,-8.6422450,42.4292940
+502b5751,"Clinica Marazuela, S.A.","Carrer d'Empúries, S/N, 08820",Talavera de la Reina,Castilla - La Mancha,Spain,,-4.1011300,38.7038480
+6f2dcacb,Clínica La Antigua,"Carretera Barri Orient  Can Zariquiey, 26, 08358",Guadalajara,Castilla - La Mancha,Spain,+34 94 834 93 22,-6.1542300,36.6916560
+269c52bb,Clínica Doctor Sanz Vazquez,"Paseo Molino Del Rey, 2, 28440",Guadalajara,Castilla - La Mancha,Spain,+34 97 352 23 35,-4.5003210,36.6216740
+1475e788,Centro De Tratamiento De Drogodependientes El Alba,"Calle Ramon Y Cajal, 46, 46520",Toledo,Castilla - La Mancha,Spain,+34 97 157 70 68,2.1504460,41.4014260
+9de9b6b2,Centro de Atención  A La Salud Mental La Milagrosa,"Avenida Islas Baleares, S/N, 09006",Albacete,Castilla - La Mancha,Spain,,-5.6396460,43.5378900
+7622794d,Hospital Universitario Marques De Valdecilla,"Calle Company, 30, 07014",Santander,Cantabria,Spain,+34 95 185 71 18,-5.8670000,43.3766020
+0303f28f,Hospital Sierrallana,"Calle Sant Joan De Deu, 7, 07007",Torrelavega,Cantabria,Spain,+34 92 589 29 83,-6.2360560,36.5978210
+04a2e087,Hospital Santa Clotilde,"Carretera Carretera De Logroño, S/N, 26500",Santander,Cantabria,Spain,+34 96 749 93 87,-6.9236000,37.2795970
+a4e848e0,Hospital Ramon Negrete,"Calle Amargura, 31, 29012",Santander,Cantabria,Spain,,2.1870040,41.4329640
+1ed02e0d,Hospital Comarcal De Laredo,"Barrio San Martin De Arteaga ( Au/Ba ), 45, 48170",Laredo,Cantabria,Spain,+34 91 264 94 80,-1.5883260,42.0422190
+dbbfd823,Clinica Mompia,"Calle Sant Jaume, 209-217, 08370",Santa Cruz de Bezana,Cantabria,Spain,+34 97 720 55 63,-1.1487220,38.0084860
+549a4eca,Centro Hospitalario Padre Menni,"Avenida Adolfo Suarez, S/N, 02640",Santander,Cantabria,Spain,+34 99 995 19 86,-6.4056880,38.6900980
+08c60077,Vithas Hospital Santa Cruz,"Calle Verntallat, 11-19, 08024",Santa Cruz de Tenerife,Canarias,Spain,+34 98 400 87 63,-3.6401060,40.4401350
+72c64c51,Vithas Hospital Santa Catalina,"Plaza Mesoncico, 3, 30430",Las Palmas de Gran Canaria,Canarias,Spain,+34 98 786 36 91,0.9245510,41.5416930
+0d591594,Quinta Médica del Reposo,"Avenida Menendez Pidal, S/N, 14004",Santa Brígida,Canarias,Spain,+34 97 363 30 72,-6.2782740,36.5088540
+6142e1d6,Hospiten Sur,"Calle Carme  Verdaguer, 56, 08700",Arona,Canarias,Spain,,-2.9390130,43.2592670
+d0c14027,Hospiten Rambla,"Avenida Del Sol, 43, 29740",Santa Cruz de Tenerife,Canarias,Spain,,-3.0132400,43.3584490
+1a84ddf7,Hospiten Lanzarote,"Calle Maestro Valle, 20, 35005",Tías,Canarias,Spain,,0.0190830,39.9949670
+9058a100,Hospiten Clinica Roca San Agustín,"Calle De Los Pirineos, 7, 28040",San Bartolomé de Tirajana,Canarias,Spain,+34 93 494 18 77,-3.7110210,42.3470180
+4f816490,Hospiten Bellevue,"Calle Dulzaina, 2, 47012",Puerto de la Cruz,Canarias,Spain,+34 90 883 90 53,-3.7767330,37.7956020
+0b8d0981,Hospital Universitario Nuestra Señora De La Candelaria,"Camino De La Masia, S/N, 08392",Santa Cruz de Tenerife,Canarias,Spain,+34 96 380 32 48,2.1261020,41.3852600
+7e139329,Hospital Universitario De Salud Mental Juan Carlos I,"Carretera De Alpedrete, M-608, KM. 41, 28400",Las Palmas de Gran Canaria,Canarias,Spain,+34 92 355 29 21,-2.1466570,40.0699760
+f9457103,Hospital Universitario De Gran Canaria Dr. Negrin,"Calle Magnolias, 2, 38312",Las Palmas de Gran Canaria,Canarias,Spain,+34 93 809 57 32,0.6164340,41.6229540
+60a68575,Hospital Universitario De Canarias,"Avenida Pablo Naranjo Porras, 0, 10005",San Cristóbal de La Laguna,Canarias,Spain,+34 93 193 60 37,1.4111310,38.9834400
+c46a9032,Hospital San Roque Maspalomas,"Parque Tauli, S/N, 08208",San Bartolomé de Tirajana,Canarias,Spain,+34 99 519 23 34,2.4294840,41.5551950
+3576f4e4,Hospital San Roque De Guia,"Calle Federico Mayor Zaragoza, 0, 06006",Santa María de Guía de Gran Canaria,Canarias,Spain,+34 94 364 86 42,1.8320710,41.7228620
+529eea97,Hospital San Juan De Dios Tenerife,"Calle Gordoniz, 9, 48010",Santa Cruz de Tenerife,Canarias,Spain,,2.1615710,41.4399690
+12abb9e7,Hospital San José,"Avenida Virgen De Lidon, 67, 12004",Las Palmas de Gran Canaria,Canarias,Spain,+34 90 605 74 20,-13.8624590,28.4998280
+ba61f11d,Hospital Quirón Salud Tenerife,"Calle Maria Rosa Molas, 25, 12004",Santa Cruz de Tenerife,Canarias,Spain,+34 98 381 59 74,2.2113930,41.5410930
+948df963,Hospital Quirón Salud Costa Adeje,"Calle Peñaranda De Bracamonte, 24, 47000",Adeje,Canarias,Spain,,-6.9890690,38.8688590
+d5a663fb,Hospital Psiquiátrico De Tenerife,"Carretera M-952 (Acceso Al Hospital), KM.5, 28630",Santa Cruz de Tenerife,Canarias,Spain,+34 90 815 59 35,-5.5907970,42.6157950
+e4ec5fcf,Hospital Perpetuo Socorro,"Avenida De Monteprincipe, 25, 28660",Las Palmas de Gran Canaria,Canarias,Spain,+34 95 550 42 54,-1.3910150,39.4601700
+e2305137,Hospital Parque Fuerteventura,"Avenida Manuel Siurot, S/N, 41013",Puerto del Rosario,Canarias,Spain,,-15.4302000,28.1374080
+385b9a3c,Hospital Parque,"Paseo La Rosaleda, 40, 11405",Santa Cruz de Tenerife,Canarias,Spain,+34 93 166 24 94,-0.1197520,39.9355040
+67265193,Hospital Nuestra Señora De Guadalupe,"Avenida La Esquila, 5, 21660",San Sebastián de la Gomera,Canarias,Spain,,-5.5760450,42.6234120
+3c5efef0,Hospital La Paloma,"Calle Marqueses De San Isidro, 11, 24000",Las Palmas de Gran Canaria,Canarias,Spain,,-0.4008480,42.1411840
+b3264797,Hospital Insular Nuestra Señora De Los Reyes,"Carretera Martorell A Capellades, , 08635",Valverde,Canarias,Spain,+34 95 504 60 33,-0.1719030,38.9628790
+8564d61b,Hospital General De La Palma,"Calle De Gomez Hemans, 2, 28033",Breña Alta,Canarias,Spain,+34 93 190 97 29,-8.3997720,43.3282820
+16d2b41e,Hospital General De Fuerteventura,"Paseo Manuel Girona, 33, 08034",Puerto del Rosario,Canarias,Spain,,-0.6188590,38.2873650
+e1574622,Hospital Doctor José Molina Orosa,"Calle De Lopez De Hoyos, 259, 28043",Arrecife,Canarias,Spain,+34 90 438 26 18,-0.1759370,38.9729780
+1c54b93b,Hospital Del Torax,"Avenida De Galicia, 1, 24400",Santa Cruz de Tenerife,Canarias,Spain,,-3.6190590,40.3810810
+8c5dad82,Hospital Del Sur,"Calle Dolores Ibarruri, 1, 46920",Arona,Canarias,Spain,+34 99 233 95 68,-8.7190270,42.2283070
+0390dd6d,Hospital Del Norte,"Calle Camilo Jose Cela, 20, 07014",Icod de los Vinos,Canarias,Spain,+34 90 445 87 46,-3.8617050,40.3132140
+ef3533d5,Hospital Ciudad De Telde,"Calle Cami Almazara, 11, 03203",Telde,Canarias,Spain,+34 93 980 89 56,2.7613070,42.1150800
+b7e78588,Clínica Vida,"Calle Ramon Y Cajal, S/N, 26006",La Orotava,Canarias,Spain,+34 92 431 27 90,-7.1938560,37.2585830
+571dbaba,Clinica Tara,"Avenida Simon Nieto, 31-34, 34005",Tacoronte,Canarias,Spain,+34 91 786 69 42,-8.7288470,42.2300950
+5e59b42f,Clínica San Roque,"Calle San Juan De Dios, 19-23, 18001",Las Palmas de Gran Canaria,Canarias,Spain,,2.0180620,41.3216230
+b3d800df,Clinica Jorgani,"Estrada do Meixoeiro, s/n, 36214",Teguise,Canarias,Spain,,2.2878090,41.6082310
+2a030efb,Clínica Cajal,"Calle Jacint Verdaguer, 11, 43870",Las Palmas de Gran Canaria,Canarias,Spain,+34 99 493 83 17,-2.4798290,42.3638370
+d6d215ff,Clínica Bandama,"Calle Jose Achotegui, Calle/Kalea, S/N, 01009",Las Palmas de Gran Canaria,Canarias,Spain,,-0.4307790,39.6851090
+4683157f,Policlínica Virgen De Gracia,"Carretera De Gombren, 20, 17530",Maó-Mahón,Baleares,Spain,+34 95 760 35 37,2.6467880,39.5742210
+3bae964d,Policlínica Nuestra Sra. Del Rosario,"Avenida Alfonso Puchades, 8, 03501",Eivissa,Baleares,Spain,+34 90 602 23 35,-2.3154250,43.0834290
+0ffea59e,Mutua Balear,"Calle De O'Donnell, 59, 28009",Palma,Baleares,Spain,,1.2627700,41.1234030
+b07b3fb8,Juaneda Miramar,"Calle Pardo Bazan, S/N, 15406",Palma,Baleares,Spain,+34 95 179 90 57,1.1491040,41.1107960
+46538524,Hospital Sant Joan De Déu,"Avenida Residencia, S/N, 15405",Palma,Baleares,Spain,+34 91 464 66 34,-6.2958510,36.5320080
+4a6d2ec4,Hospital Quirónsalud Palmaplanas,"Avenida Josep Molins, 41, 08906",Palma,Baleares,Spain,,-4.3589030,39.8645020
+dcfbcf3f,Hospital Joan March,"Paseo Vall D'Hebron,, 159, 08035",Bunyola,Baleares,Spain,+34 91 563 31 73,-0.4066910,39.4686310
+817737a5,Hospital General De Muro,"Calle Buganvilla, 1, 35100",Muro,Baleares,Spain,+34 96 926 20 85,-0.4473220,39.1311530
+3d330944,Hospital General De Mallorca,"Calle Duraton, 2, 09000",Palma,Baleares,Spain,+34 93 214 35 68,2.6243020,39.5671850
+a6216e90,Hospital De Manacor,"Urbanizacion San Eugenio, S/N, 38660",Manacor,Baleares,Spain,+34 91 640 60 83,-1.6987700,37.6713980
+bb8120d5,Hospital De Llevant,"Calle Sant Eloi, 6-8, 08038",Manacor,Baleares,Spain,,-3.8444110,40.4143910
+5e528ef3,Hospital De La Creu Roja Espanyola,"Calle De Joaquin De Cardenas, 2, 28823",Palma,Baleares,Spain,+34 92 943 71 15,-3.6617500,40.4569100
+a73ce420,Hospital De Formentera,"Calle Buigas, 19, 08017",Formentera,Baleares,Spain,+34 99 909 80 78,-0.0250110,39.9957780
+98f0feec,Hospital Comarcal D´Inca,"Calle Escamarla, 6, 07680",Inca,Baleares,Spain,+34 99 942 82 24,2.1423650,41.4256830
+7167cf0c,Hospital Clinic Balear,"Carretera Cuesta Taco, S/N, 38320",Llucmajor,Baleares,Spain,,2.1699190,41.3879170
+8e310d43,Hospital Can Misses,"Calle Del Maestro Angel Llorca, 8, 28003",Eivissa,Baleares,Spain,+34 93 532 36 36,-16.7266390,28.0766460
+e637e1c9,Clínica Rotger,"Avenida Damian Tellez Lafuente, 0, 06010",Palma,Baleares,Spain,,-3.7073240,40.4472850
+51d7f96c,Clínica Luz De Palma,"Carretera Autovia A-7, S/N, 29603",Palma,Baleares,Spain,,-0.6831890,37.9775850
+1b45d14d,Clínica Juaneda Menorca,"Calle Salvatierrabide, 9, 01007",Ciutadella de Menorca,Baleares,Spain,,-0.3625600,39.4787550
+5e90746e,Clínica Juaneda,"Calle Francisco Salinas, 0, 09003",Palma,Baleares,Spain,,-8.7276490,42.2286760
+cbccb1cc,Sanatorio Ntra. Sra. De Covadonga,"Carretera C.Nal. 332, Alicante-Valencia, S/N, 03550",Gijón,Asturias,Spain,+34 94 747 12 17,-6.3688100,38.9073490
+5f2da6d6,Instituto Oftalmologico Fernandez-Vega,"Carretera Sax, S/N, 03600",Oviedo,Asturias,Spain,+34 93 529 36 98,-3.7834970,40.4668610
+e4b0221a,Hospital Vital Álvarez Buylla,"Carretera De Madrid-Toledo, KM.12,500, 28905",Mieres,Asturias,Spain,+34 96 658 52 39,-1.9687200,43.2929080
+de4647b1,Hospital Valle Del Nalón,"Calle Sienra, 11, 33800",Langreo,Asturias,Spain,+34 92 457 33 80,-3.6108410,37.1880510
+d4a1f4e8,Hospital Universitario San Agustín,"Avenida Marques De  Los Velez, 0, 30008",Avilés,Asturias,Spain,+34 98 563 37 71,1.1217310,41.1448320
+81fee6f1,Hospital Universitario De Cabueñes,"Calle Uria, 37, 33202",Gijón,Asturias,Spain,+34 91 368 63 84,-5.7282400,41.5114300
+1a37096c,Hospital Universitario Central De Asturias,"Calle Punta Umbría, 8, 21002",Oviedo,Asturias,Spain,,2.6277850,39.5763990
+acc14470,Hospital Monte Naranco,"Via Augusta, 9, 08911",Oviedo,Asturias,Spain,,-6.3741210,39.4641990
+434f8ded,Hospital Gijon,"Carretera Sagunto Burgos, KM 254, 50300",Gijón,Asturias,Spain,+34 94 970 71 39,-6.5929450,42.5414510
+9998be1c,Hospital Del Oriente De Asturias Francisco Grande Covian,"Avenida Amazonas Central, S/N, 28300",Parres,Asturias,Spain,+34 95 118 19 66,0.0856940,38.8364090
+219bd912,Hospital De Luarca,"Calle Doctor Velasco, 21-23, 40003",Valdés,Asturias,Spain,+34 94 696 96 77,-0.1300700,41.0445080
+3a04daad,Hospital De Jove,"Avenida Madrid, 4, 36204",Gijón,Asturias,Spain,+34 95 395 94 35,-0.8058490,38.4935740
+25ec0c89,Hospital De Jarrio,"Calle Cami De La Vileta, 30, 07011",Coaña,Asturias,Spain,+34 96 344 57 89,-16.2826110,28.4621490
+b007895f,Hospital Cruz Roja,"Avenida De La Gran Via Del Este, 80, 28031",Gijón,Asturias,Spain,+34 99 778 75 98,-3.5407950,40.3647140
+e43561c9,Hospital Carmen Y Severo Ochoa,"Calle Alameda de San Anton, 6, 30205",Cangas del Narcea,Asturias,Spain,+34 91 319 99 58,1.4607000,42.3548670
+e67b0784,Hospital Begoña,"Carretera De Colmenar Viejo, KM.9,1, 28034",Gijón,Asturias,Spain,+34 92 429 21 92,-1.1212040,37.9820440
+35ce31a9,Fundación Sanatorio Adaro,"Avenida Imperio Argentina, 1, 29004",Langreo,Asturias,Spain,+34 96 146 50 41,2.1365020,41.3968420
+df657b15,Fundación Hospital de Avilés,"Avenida Doctor Sanchez Malo, 73, 41400",Avilés,Asturias,Spain,,-16.4119970,28.4815290
+d4252b8c,Comunidad Terapéutica San Lazaro,"Calle Autovia Del Sur, S/N, 35016",Oviedo,Asturias,Spain,+34 97 115 13 70,-16.6861360,28.3829700
+8d0a92b9,Clínica San Rafael,"Avenida De Menendez Pelayo, 65, 28009",Oviedo,Asturias,Spain,,-3.1688830,40.6387350
+7a4bd446,Clínica Psiquiátrica Somió,"Paseo De La Castellana, 261, 28046",Gijón,Asturias,Spain,+34 99 766 53 84,-3.9388330,38.9800700
+8f49028a,Clínica Asturias,"Avenida De Francisco Pi Y Margall, 81, 28050",Oviedo,Asturias,Spain,+34 94 276 13 19,-5.6758030,43.2925640
+753c8227,Centro Terapéutico Vista Alegre,"Avenida Castillo De Olivares, S/N, 28250",Gijón,Asturias,Spain,,-3.0271680,43.3266970
+8c80263a,Centro Salud Mental Pérez Espinosa,"Calle Sor Gregoria De Santa Teresa, S/N, 41012",Llanera,Asturias,Spain,,-0.9764250,37.6072210
+321090e1,Centro Médico De Asturias,"Calle Caputxins, 16, 08241",Oviedo,Asturias,Spain,+34 91 556 83 45,-8.3866330,43.3449200
+55ff5670,Centro de Tratamiento Integral de la Corredoria,"Calle Antequera, 8-18, 08024",Oviedo,Asturias,Spain,,-5.5436000,42.5766180
+7be0aaf1,Unidad Rehabilitadora De Media Estancia Profesor Rey Ardid,"Avenida Vergel (De), 11, 03778",Zaragoza,Aragón,Spain,,-7.8588310,42.3270380
+dcbd7804,Unidad De Rehabilitación De Larga Estancia,"Avenida Del Ventisquero De La Condesa, 42, 28035",Sádaba,Aragón,Spain,,-5.6380830,43.5371890
+b992bdda,Hospital Viamed Santiago,"Carretera De La Granja, 7, 40194",Huesca,Aragón,Spain,,2.1445920,41.4306050
+4161d837,Hospital Viamed Montecanal,"Avenida Benicasim, S/N, 12004",Zaragoza,Aragón,Spain,,-5.9259630,43.5553120
+9992db34,Hospital San Juan De Dios,"Paseo Dr. Fleming, 481, 33394",Zaragoza,Aragón,Spain,,0.6189130,41.6144110
+487bd472,Hospital Sagrado Corazón de Jesús,"Calle Jesus I Maria, 18-20, 08022",Huesca,Aragón,Spain,+34 93 136 82 84,2.0646340,41.3582260
+6bf901ed,Hospital Royo Villanova,"Calle Secretari Coloma, 95, 08024",Zaragoza,Aragón,Spain,,1.0532180,41.0723320
+5effcc72,Hospital Quirónsalud Zaragoza,"Calle Cartagena, 340, 08025",Zaragoza,Aragón,Spain,+34 95 654 94 91,2.1208330,41.3918500
+07df644c,Hospital Obispo Polanco,"Carretera De Meco, S/N, 28805",Teruel,Aragón,Spain,+34 94 680 69 33,-3.7245290,40.4685600
+65d53108,Hospital Nuestra Señora De Gracia,"Calle Viladomat, 288, 08029",Zaragoza,Aragón,Spain,,-5.6284020,43.5324030
+1e4aa925,Hospital MAZ Zaragoza,"Camino Antic De Llivia, S/N, 17520",Zaragoza,Aragón,Spain,+34 91 529 15 97,-3.6745000,40.4406740
+a0b5398c,Hospital General San Jorge,"Calle Arroyo De Los Angeles, S/N, 29009",Huesca,Aragón,Spain,,-7.5338000,43.0216000
+17e04a70,Hospital General De La Defensa (Zaragoza),"Avenida De Los Estudiantes, S/N, 13300",Zaragoza,Aragón,Spain,,-3.7093630,40.5541200
+ec38c1d2,Hospital Ernest Lluch Martin,"Carretera Bailen Motril, S/N, 23007",Calatayud,Aragón,Spain,+34 98 649 94 35,-0.9847790,41.6772680
+1ea8f6e5,Hospital De San José,"Calle Bisbe Torres, 13, 25002",Teruel,Aragón,Spain,,-1.1653610,37.9417910
+65a5dbaf,Hospital De Rehabilitación Psiquiátrica Prisma,"Avenida Valdecilla, S/N, 39008",Zaragoza,Aragón,Spain,,-8.4185220,43.3665260
+00cf70f1,Hospital De Jaca Salud,"Paseo Paseo De Miramon, 174, 20009",Jaca,Aragón,Spain,+34 92 558 57 71,-15.4300210,28.1248260
+230e274b,Hospital De Barbastro,"Ronda Malbuger, 1, 07703",Barbastro,Aragón,Spain,+34 94 453 21 39,2.1972710,41.4385020
+ed8989ad,Hospital De Alcañiz,"Rúa Dr. Ulises Romero, 1, 27003",Alcañiz,Aragón,Spain,+34 95 445 89 16,2.6424580,39.5977860
+96a5b238,Clínica Nuestra Señora Del Pilar,"Calle Sabino De Arana, 1, 08028",Zaragoza,Aragón,Spain,+34 96 637 99 34,-3.6785680,40.4594960
+2cfa42f7,"Clinica Montpellier, Grupo Hla, S.A.U","Paseo Juan Carlos I, 10, 47008",Zaragoza,Aragón,Spain,,-3.7159510,40.4451540
+d467b576,Centro Sanitario Cinco Villas,"Calle Choupana (Da), S/N, 15706",Ejea de los Caballeros,Aragón,Spain,+34 97 953 62 70,-4.7704650,37.3905070
+9d6ca771,Centro Sanitario Bajo Cinca-Baix Cinca,"Avenida Orellana, S/N, 28911",Fraga,Aragón,Spain,+34 92 687 87 65,-0.3499010,39.4693560
+91a1443d,Centro Neuropsiquiátrico Nuestra Señora Del Carmen,"Carretera Xativa-Silla, KM. 2, 46800",Zaragoza,Aragón,Spain,,2.0401360,41.3412590
+ac317423,Centro De Rehabilitación Psicosocial Santo Cristo De Los Milagros,"Avenida Placido Fernandez Viagas, S/N, 41950",Huesca,Aragón,Spain,,-6.9525660,37.2665750
+7f1ba71b,Centro De Rehabilitación Psicosocial San Juan De Dios,"Avenida Manuel Siurot, S/N, 41013",Teruel,Aragón,Spain,+34 99 452 76 36,-2.0403910,42.6825400
+7c113942,Centro De Rehabilitación Psicosocial Nuestra Señora Del Pilar,"Calle Heroines De Santa Barbara, 6, 17004",Zaragoza,Aragón,Spain,,-4.1185600,40.9425770
+c8101d54,Residencia De Salud Mental Nuestra Señora Del Carmen,"Calle 6-8, S/N, 20600",Bormujos,Andalucía,Spain,+34 92 869 19 87,-4.8099770,37.8575250
+89f09106,Hospiten Estepona,"Avenida De Los Poblados, 70, 28044",Estepona,Andalucía,Spain,+34 90 857 29 43,-2.9475930,42.6873440
+9fa51bc2,Hospital Vithas Xanit Internacional,"Carrer del Marquès de Sentmenat, 57, 08029",Benalmádena,Andalucía,Spain,+34 90 244 83 48,2.1488490,41.3970620
+28b85387,Hospital Vithas Parque San Antonio,"Urbanizacion Los Alamos, S/N, 29620",Málaga,Andalucía,Spain,+34 91 242 37 42,-0.8888430,41.6371340
+d470053d,Hospital Vithas La Salud,"Calle Daimus, 26, 46701",Granada,Andalucía,Spain,,-5.8251170,43.3731050
+17fbb7f8,Hospital Virgen Del Mar,"Paseo Vall D'Hebron, 107, 08035",Almería,Andalucía,Spain,,-6.0834680,37.3698670
+8976bc76,Hospital Virgen Del Camino,"Carretera Palma-Soller, KM. 12, 07110",Sanlúcar de Barrameda,Andalucía,Spain,,-1.7914980,43.3625300
+9d4b6031,Hospital Virgen De Las Montañas,"Carretera De Oron, 0, 09200",Villamartín,Andalucía,Spain,+34 96 206 90 53,1.1060870,41.1604750
+9a8a0cc5,Hospital Virgen De La Bella,"Calle San Jacinto, 87, 41010",Lepe,Andalucía,Spain,+34 93 519 69 10,-3.7468390,40.4006420
+bce223b0,Hospital Victoria Eugenia - Cruz Roja Sevilla,"Avenida Hispanidade, 40, 36203",Sevilla,Andalucía,Spain,,0.5759400,40.7092660
+4073da7c,Hospital Viamed Santa Angela De La Cruz,"Calle Prolongacion Doctor Fleming, Sector 13, S/N, 41703",Sevilla,Andalucía,Spain,,-5.7867470,37.1757150
+1f7c8ee8,Hospital Viamed Novo Sancti Petri,"Paseo Padre Faustino Calvo, 0, 34005",Chiclana de la Frontera,Andalucía,Spain,+34 96 789 87 82,-5.8102420,43.4201120
+af8a240e,Hospital Viamed Bahía de Cádiz,"Calle Palafolls, 15-19, 08017",Chiclana de la Frontera,Andalucía,Spain,,-5.9455650,37.2652020
+36dec096,Hospital Vázquez Díaz,"Carretera La Providencia-Infanzon, 3518, 3518, 33203",Huelva,Andalucía,Spain,+34 94 157 28 64,-15.6222540,28.1357630
+154b8c6d,Hospital Valle De Los Pedroches,"Urbanizacion Vall D'Aigues Vives, De La, S/N, 46740",Pozoblanco,Andalucía,Spain,,-6.7559140,43.5189560
+067a45a1,Hospital Valle De Guadalhorce De Cartama,"Carretera De M-501 (De Alcorcon A Plasencia), KM.17,900, 28690",Málaga,Andalucía,Spain,+34 95 871 71 33,-4.3056420,40.2767830
+7a367d9c,Hospital Universitario Virgen Macarena,"Carrer de la Vinya, s/n, 08193",Sevilla,Andalucía,Spain,+34 96 405 32 78,2.0381690,41.3500930
+0f997218,Hospital Universitario Virgen De Las Nieves,"Carretera De Dehesas, S/N, 28470",Granada,Andalucía,Spain,+34 95 195 49 80,-3.6665950,40.4706110
+4ba7a6b5,Hospital Universitario Torrecárdenas,"Calle Hospital De San Juan, 4-6, 49600",Almería,Andalucía,Spain,+34 93 183 17 16,-1.9436840,37.3906250
+1cce4f3a,Hospital Universitario Reina Sofia,"Calle Vistalegre, 2, 33619",Córdoba,Andalucía,Spain,+34 97 295 72 18,-1.1659890,37.9272160
+168a085d,Hospital Universitario Juan Ramón Jiménez,"Calle Sant Mateu, 24, 08950",Huelva,Andalucía,Spain,,-3.5744580,37.1650480
+82785275,Hospital Santa Ana,"Calle Lopez Pelaez, 15-17, 43002",Motril,Andalucía,Spain,,0.6174020,41.6101200
+3e912a4f,Hospital San Rafael,"Calle Jove Y Canella, 1, 33900",Granada,Andalucía,Spain,,2.1880170,41.3790100
+a700121d,Hospital San Rafael,"Calle Max Planck, S/N, 03203",Cádiz,Andalucía,Spain,+34 96 609 63 29,-3.7166120,37.7727890
+b4e5e233,Hospital San Lazaro,"Calle Del Doctor Esquerdo, 46, 28009",Sevilla,Andalucía,Spain,+34 94 539 14 32,-7.4298350,41.9539900
+583b971f,Hospital San Juan Grande,"Camino Lomo Gordo, S/N, 35572",Jerez de la Frontera,Andalucía,Spain,+34 93 466 35 30,-6.5973810,37.6922870
+9a88825d,Hospital San Juan De La Cruz,"Calle Doctor Roux, 76, 08017",Úbeda,Andalucía,Spain,+34 95 980 26 18,-0.7152390,38.2545980
+08c2e197,Hospital San Juan De Dios Del Aljarafe,"Lugar Jubias De Arriba, 82, 15006",Bormujos,Andalucía,Spain,,-5.8556780,43.3713340
+5f6b0cdc,Hospital San Juan De Dios De Sevilla,"Carretera Masnou A Granollers, , 08430",Sevilla,Andalucía,Spain,+34 93 796 71 47,-5.4518900,37.1223950
+a159daa2,Hospital San Juan de Dios de Córdoba,"Avenida Donantes De Sangre, S/N, 19002",Córdoba,Andalucía,Spain,+34 96 259 37 41,-2.6682750,42.8497550
+bde8ecbf,Hospital San Carlos De San Fernando,"Avenida Doctor Fedriani, S/N, 41009",San Fernando,Andalucía,Spain,+34 99 366 23 81,0.6375260,41.0956750
+2962024e,Hospital San Agustín,"Calle De Cartagena, 111, 28002",Dos Hermanas,Andalucía,Spain,,-0.3946490,39.4828990
+c06af0d1,Hospital Universitario San Agustín,"Carretera De Martorell A Capellades, , 08635",Linares,Andalucía,Spain,,-6.9401380,37.2800070
+2f69ec81,Hospital Quirónsalud Sagrado Corazón,"Calle Burgos, S/N, 14500",Sevilla,Andalucía,Spain,+34 90 260 43 22,-1.9737850,43.2912460
+7d9329b8,Hospital Quirónsalud Marbella,"Avenida de España, 2, 10002",Marbella,Andalucía,Spain,+34 94 212 24 43,-3.5224040,36.7542410
+3f0adfbc,Hospital Quirónsalud Málaga,"Carretera Badajoz Granada, 0, 06300",Málaga,Andalucía,Spain,,2.1343370,41.4006020
+be79e106,Hospital Quirónsalud Infanta Luisa,"Calle Paraje Cerro Del Camello, S/N, 14200",Sevilla,Andalucía,Spain,,-1.1151930,40.3460260
+e57c3243,Hospital Quirónsalud Córdoba,"Carretera Malagon, S/N, 13500",Córdoba,Andalucía,Spain,+34 94 834 88 30,-4.0073010,39.8617970
+255d0d07,Hospital Quirónsalud Campo de Gibraltar,"Paseo De La Habana, 83, 28036",Los Barrios,Andalucía,Spain,+34 97 126 53 38,2.2383640,41.4772650
+5f342291,Hospital Punta De Europa,"Carretera Laza (De), S/N, 32600",Algeciras,Andalucía,Spain,+34 90 851 28 39,-0.8868620,41.6519920
+6b0405cb,Hospital Psiquiátrico San Francisco de Asís (Málaga),"Plaza De Colon, 1, 47000",Málaga,Andalucía,Spain,+34 91 568 64 27,-5.5723850,42.6189470
+755ebf4e,Hospital Psiquiátrico Penitenciario,"Calle Prat De La Riba, 171, 08921",Sevilla,Andalucía,Spain,,1.8437570,41.4925490
+0fa243c2,Hospital Provincial,"Avenida Doctora Ana Parra, S/N, 04600",Córdoba,Andalucía,Spain,,1.9125260,41.4911940
+3f0adfbc,Hospital Quirónsalud Málaga,"Carretera Badajoz Granada, 0, 06300",Málaga,Andalucía,Spain,+34 99 606 71 28,2.1343370,41.4006020
+be79e106,Hospital Quirónsalud Infanta Luisa,"Calle Paraje Cerro Del Camello, S/N, 14200",Sevilla,Andalucía,Spain,+34 99 643 27 96,-1.1151930,40.3460260
+e57c3243,Hospital Quirónsalud Córdoba,"Carretera Malagon, S/N, 13500",Córdoba,Andalucía,Spain,+34 94 945 97 38,-4.0073010,39.8617970
+255d0d07,Hospital Quirónsalud Campo de Gibraltar,"Paseo De La Habana, 83, 28036",Los Barrios,Andalucía,Spain,,2.2383640,41.4772650
+5f342291,Hospital Punta De Europa,"Carretera Laza (De), S/N, 32600",Algeciras,Andalucía,Spain,+34 94 697 54 65,-0.8868620,41.6519920
+6b0405cb,Hospital Psiquiátrico San Francisco de Asís (Málaga),"Plaza De Colon, 1, 47000",Málaga,Andalucía,Spain,+34 96 142 24 81,-5.5723850,42.6189470
+755ebf4e,Hospital Psiquiátrico Penitenciario,"Calle Prat De La Riba, 171, 08921",Sevilla,Andalucía,Spain,,1.8437570,41.4925490
+0fa243c2,Hospital Provincial,"Avenida Doctora Ana Parra, S/N, 04600",Córdoba,Andalucía,Spain,+34 94 601 70 57,1.9125260,41.4911940
+1a1091f6,Hospital Nisa Sevilla-Aljarafe,"Calle Ticia ., 21, 08035",Castilleja de la Cuesta,Andalucía,Spain,+34 94 121 29 30,-4.7625360,37.9197610
+2fa421ab,Hospital Neurotraumatologico Del H.U. De Jaen,"Plaza Sant Francesc, S/N, 43800",Jaén,Andalucía,Spain,+34 92 200 81 46,-15.4300210,28.1248260
+1c8b2855,Hospital Mediterráneo,"Avenida Josep Laporte, 2, 43204",Almería,Andalucía,Spain,,-5.9820540,37.3620960
+d0b9b1f1,Hospital Materno-Infantil Del H.U.R. De Málaga,"Carretera De Logroño, 8, 42004",Málaga,Andalucía,Spain,,-9.1910930,42.9534300
+337a187e,Hospital Materno-Infantil Del H.U. Virgen De Las Nieves,"Carretera Torrebonica, S/N, 08227",Granada,Andalucía,Spain,+34 95 648 75 78,-1.1288070,37.9932520
+94df9d63,Hospital Materno-Infantil Del H.U. Reina Sofia,"Calle Gladiolo, S/N, 28933",Córdoba,,Spain,+34 90 949 33 71,2.2182830,41.4129920
+0c6ae44e,Hospital Materno-Infantil Del H.U. De Jaen,"Plaza Doctor Robert, 1, 08221",Jaén,,Spain,+34 99 589 45 85,-2.8643530,43.2841870
+956093e7,Hospital Maritimo De Torremolinos,"Calle Santiago Leon De Caracas (De), 1, 15701",Torremolinos,,Spain,+34 95 236 52 21,-4.5107510,41.9910850
+1c0e92f4,Hospital Los Morales,"Avenida Alcalde Barnils, 54-60, 08174",Córdoba,,Spain,+34 92 550 66 61,2.2611890,41.9299280
+52260c64,Hospital La Merced,"Avenida Fernando Abril Martorell, 106, 46026",Osuna,,Spain,+34 97 421 58 10,-3.1765740,40.6295020
+369368c8,Hospital La Inmaculada,"Paseo De La Estacion, 2, 19004",Huércal-Overa,,Spain,,-0.5198590,38.9882580
+9f9b9ca9,Hospital Jerez Puerta Del Sur,"Calle Carretera Aeropuerto, KM 1, 35600",Jerez de la Frontera,,Spain,+34 99 304 64 51,-5.0960520,37.2334870
+2996fcf3,Hospital Infantil,"Camino Abejar, 100, 50190",Sevilla,,Spain,+34 94 766 95 64,-1.8600670,38.9976620
+578db9da,Hospital Infanta Margarita,"Avenida De Las Fuerzas Armadas, 2, 18014",Cabra,,Spain,,-8.5465160,42.8718580
+60efba94,Hospital Infanta Elena,"Calle Porta Coeli, S/N, 46118",Huelva,,Spain,,-3.6863680,40.4802310
+4ef54e17,Hospital General Santa María del Puerto,"Carretera Carretera Cv 95 S. Miguel Salinas-Torrevieja Pda. La Ceñuela, S/N, 03186",El Puerto de Santa María,,Spain,+34 93 394 46 14,-4.4039440,36.7216380
+07c57703,Hospital Fátima,"Calle Venda Des Brolls, S/N, 07860",Sevilla,Andalucía,Spain,+34 95 659 53 45,-4.0808810,37.5868790
+d1cb6010,Hospital F.A.C. Doctor Pascual,"Avenida Joan Peset, 31, 46110",Málaga,Andalucía,Spain,+34 94 183 10 11,-3.7746350,40.3617960
+69481414,Hospital El Tomillar,"Paseo Arbreda, S/N, 07609",Alcalá de Guadaíra,Andalucía,Spain,,-5.9201790,37.3341260
+a4d9eb86,Hospital El Ángel,"Avenida Cristobal Murrieta ( Et/Av ), 70, 48980",Málaga,Andalucía,Spain,+34 98 372 19 58,-3.3673370,40.4830290
+3c4daa8c,Hospital Duques Del Infantado,"Calle Fray Juan Navarrete, 9, 36001",Sevilla,Andalucía,Spain,,-2.4499830,42.4656790
+0f6a5ff3,Hospital Dr. Gálvez,"Calle Sant Rafael, 11, 08905",Málaga,Andalucía,Spain,,-0.4519870,39.4856980
+cffe613f,Hospital Doctor Sagaz,"Calle Copernic, 58, 08006",Jaén,Andalucía,Spain,+34 96 286 54 21,-8.3849760,43.3467220
+e6995819,Hospital De Riotinto,"Avenida Carlos Haya, S/N, 29010",Minas de Riotinto,Andalucía,Spain,+34 98 766 70 36,-4.8045790,37.8704020
+aecb0036,Hospital De Rehabilitacion Y Traumatologia Del H.U. Virgen Del Rocio,"Avenida Generalitat Valenciana, 50, 46940",Sevilla,Andalucía,Spain,+34 91 987 36 46,-5.9832900,37.4156920
+da6b67ce,Hospital Universitario Poniente,"Avenida Arroyo Hondo, S/N, 29630",El Ejido,Andalucía,Spain,+34 91 840 15 47,2.1223860,41.3908310
+642567cc,Hospital De Neurotraumatologia Y Rehabilitacion Del H.U. Virgen De Las Nieves,"Calle Duquesa Villahermosa, 66-68, 50009",Granada,Andalucía,Spain,+34 95 859 79 99,-3.7201100,40.4395240
+1d209abd,Hospital De Montilla,"Calle Dr. Antoni Pujadas, 42, 08830",Montilla,Andalucía,Spain,+34 96 848 89 57,-6.0700690,37.3779440
+d6807773,Hospital De La Serrania,"Calle Nueva Musa, 8, 04007",Ronda,Andalucía,Spain,+34 98 312 59 81,-5.6549020,43.5383860
+89d63d5e,Hospital De La Mujer,"Calle Seminario, 4, 02006",Sevilla,Andalucía,Spain,+34 90 933 95 40,-3.7103730,40.5542600
+93d316e8,Hospital De La Línea de la Concepción,"Calle Mar De Siberia, 1, 35100",La Línea de la Concepción,Andalucía,Spain,,2.0382360,41.3498890
+e3ed6ec2,Hospital De La Inmaculada Concepción,"Calle De Oña, 10, 28050",Granada,Andalucía,Spain,+34 99 182 46 45,-3.6684470,40.4180240
+db38d73e,Hospital De La Cruz Roja De Almería,"Carrer Gironella, 11, 13, 17005",Almería,Andalucía,Spain,+34 99 799 73 19,-0.3256720,39.4759040
+43d15f87,Hospital De La Axarquia,"Avenida Adolfo Suarez, 56, 06800",Vélez-Málaga,Andalucía,Spain,,1.2405950,41.2877870
+a1262846,Hospital De Baza,"Calle Veler, S/N, 07408",Baza,Andalucía,Spain,+34 95 237 32 61,2.1729860,41.4100460
+5c31aa5b,Hospital De Antequera,"Plaza Cruces, 12, 48903",Antequera,Andalucía,Spain,+34 90 212 15 34,-4.0523130,39.9003560
+812e3eaa,Hospital De Alta Resolucion Valle Del Guadiato,"Carretera Cartagena, 59, 30120",Peñarroya-Pueblonuevo,Andalucía,Spain,+34 91 759 83 41,-6.1780750,36.3746950
+8249c8ef,Hospital De Alta Resolución Sierra De Segura,"Calle Sant Quinti, 89, 08041",Puente de Génave,Andalucía,Spain,+34 92 447 55 31,-5.6608160,40.9719260
+ceaf5cc4,"Hospital de Alta Resolución ""El Toyo""","Carretera De Madrid, Km. 118, 24005",Almería,Andalucía,Spain,,-2.9380740,43.4162690
+66426a0d,Hospital De Alta Resolución De Utrera,"Calle Doctor  Joan  Soler, 1-3, 08243",Utrera,Andalucía,Spain,,-0.3520500,39.0846290
+e3ed6ec2,Hospital De La Inmaculada Concepción,"Calle De Oña, 10, 28050",Granada,Andalucía,Spain,+34 94 290 74 59,-3.6684470,40.4180240
+db38d73e,Hospital De La Cruz Roja De Almería,"Carrer Gironella, 11, 13, 17005",Almería,Andalucía,Spain,+34 98 998 55 61,-0.3256720,39.4759040
+43d15f87,Hospital De La Axarquia,"Avenida Adolfo Suarez, 56, 06800",Vélez-Málaga,Andalucía,Spain,+34 92 938 97 28,1.2405950,41.2877870
+a1262846,Hospital De Baza,"Calle Veler, S/N, 07408",Baza,Andalucía,Spain,,2.1729860,41.4100460
+5c31aa5b,Hospital De Antequera,"Plaza Cruces, 12, 48903",Antequera,Andalucía,Spain,+34 91 160 33 25,-4.0523130,39.9003560
+812e3eaa,Hospital De Alta Resolucion Valle Del Guadiato,"Carretera Cartagena, 59, 30120",Peñarroya-Pueblonuevo,Andalucía,Spain,+34 99 709 11 73,-6.1780750,36.3746950
+8249c8ef,Hospital De Alta Resolución Sierra De Segura,"Calle Sant Quinti, 89, 08041",Puente de Génave,Andalucía,Spain,+34 97 209 64 15,-5.6608160,40.9719260
+ceaf5cc4,"Hospital de Alta Resolución ""El Toyo""","Carretera De Madrid, Km. 118, 24005",Almería,Andalucía,Spain,+34 97 541 26 79,-2.9380740,43.4162690
+66426a0d,Hospital De Alta Resolución De Utrera,"Calle Doctor  Joan  Soler, 1-3, 08243",Utrera,Andalucía,Spain,+34 90 455 82 14,-0.3520500,39.0846290
+d8ca01fe,Hospital De Alta Resolución De Puente Genil,"Avenida Vallcarca, 151, 08023",Puente Genil,Andalucía,Spain,+34 93 983 78 30,2.1947500,41.3833240
+b3511875,Hospital De Alta Resolución De Morón De La Frontera,"Carrer de Suīssa, 11, 46024",Morón de la Frontera,Andalucía,Spain,+34 97 604 46 99,-3.7137760,40.4441700
+d82a509f,Hospital De Alta Resolución De Loja,"Calle Antoni Vares I Martinell, 37, 17007",Loja,Andalucía,Spain,,-3.5314910,40.4366180
+331d2893,Hospital De Alta Resolución De Lebrija,"Avenida De L'Hospital, 19, 08470",Lebrija,Andalucía,Spain,+34 98 225 11 55,-0.4809940,38.3452110
+213a2a01,Hospital De Alta Resolución De Guadix,"Avenida De La Universidad, 5, 10004",Guadix,Andalucía,Spain,,-3.4470430,40.2959300
+1f59b99b,Hospital De Alta Resolución De Especialidades De La Janda,"Avenida Don Antonio Campos Hoyos, 26, 06800",Vejer de la Frontera,Andalucía,Spain,+34 94 705 51 40,0.8173940,41.7890930
+a4d62f85,Hospital de Alta Resolución de Écija,"Calle Joan  Maragall, 26, 17002",Écija,Andalucía,Spain,+34 93 227 22 60,-3.9250780,37.4635850
+8cbaa008,Hospital de Alta Resolución de Benalmáden,"Carretera De Lleida A Puigcerda, , 25790",Benalmádena,Andalucía,Spain,+34 95 892 68 10,-3.6961330,40.4370010
+3c6cecd5,Hospital de Alta Resolución de Alcaudete,"Avenida Cristobal Murrieta ( Et/Av ), 70, 48980",Alcaudete,Andalucía,Spain,+34 97 996 52 83,-5.9573490,37.3913340
+cd067087,Hospital de Alta Resolución de Alcalá la Real,"Calle Villar S/N, 0, 33700",Alcalá la Real,Andalucía,Spain,+34 93 782 95 42,-6.9731260,38.8687850
+f67c1c13,Hospital Cruz Roja de Córdoba,"Paseo De Santa Barbara, 0, 42005",Córdoba,Andalucía,Spain,+34 96 426 36 34,0.6080450,41.6269880
+c381cd44,Hospital Costa De La Luz,"Avenida De Carlos V, 70, 28938",Huelva,Andalucía,Spain,+34 94 996 99 59,-3.6027950,37.1805590
+3e21c175,Hospital Civil,"Avenida Del Cosmos, S/N, 29631",Málaga,Andalucía,Spain,+34 99 748 47 31,-4.0774620,40.7055180
+c8d2b0cc,Hospital Blanca Paloma,"Calle Valle De La Ballestera, 59, 46015",Huelva,Andalucía,Spain,,-3.7200010,40.4372250
+2cd07d61,Hospital Alto Guadalquivir,"Carretera De Jarrio, S/N, 33719",Andújar,Andalucía,Spain,,-3.1722170,40.6401400
+a16e7837,Hc Marbella International Hospital,"Carretera Leioa-Unbe, Carretera/Errepidea, 33, 48950",Marbella,Andalucía,Spain,,-2.4679040,36.8400960
+b20e1260,Fundacion Cudeca. Centro De Cuidados Paliativos,"Calle Beato Tomas De Zumarraga, Calle/Kalea, 10, 01008",Benalmádena,Andalucía,Spain,+34 97 661 82 37,1.7754180,41.2590980
+1b2ce633,"Fremap, Hospital y Centro De Rehabilitacion De Sevilla","Urbanizacion Las Mimosas, Casa Santa Isabel, S/N,, 29660",Sevilla,Andalucía,Spain,+34 91 737 47 98,-0.4184750,39.5301220
+9f25f583,Comunidad Terapéutica San Antonio,"Avenida San Telmo, S/N, 34004",Málaga,Andalucía,Spain,+34 92 718 15 61,2.1176890,41.5320690
+6ff161ac,Clínica Serman,"Paseo De Los Naranjos, 1, 21004",Jerez de la Frontera,Andalucía,Spain,,-2.4515720,36.8484130
+254dedca,Clínica Santa Isabel,"Calle Dr Santiago Ramon Y Cajal, 7, 03503",Sevilla,Andalucía,Spain,+34 94 316 90 71,2.8131490,41.9952960
+8598924d,HM Santa Elena,"Calle Del Puerto De Lumbreras, 5, 28031",Torremolinos,Andalucía,Spain,+34 96 310 36 61,-4.0361730,39.8711570
+b963ade6,Clínica Nuestra Señora Del Pilar,"Calle Escorial, 148, 08024",Málaga,Andalucía,Spain,+34 91 833 91 12,-5.9765490,37.3501540
+7e0e7cf4,Clínica Los Naranjos,"Calle Diego Arias, 2, 11002",Huelva,Andalucía,Spain,+34 93 157 74 51,-0.8497580,37.8730160
+fd68e1d5,Clínica Los Álamos,"Complejo Centro Penitenc. Fontcalen, 1, 03113",Jerez de la Frontera,Andalucía,Spain,,-0.3620450,39.4820380
+f34236d8,Clínica La Salud,"Carretera Del Neveral, S/N, 23004",Cádiz,Andalucía,Spain,+34 99 448 83 67,-3.7413960,40.2835850
+f8a1db2b,Clínica El Seranil,"Avenida Santa Maria De La Alhambra, S/N, 18008",Vélez-Málaga,Andalucía,Spain,,1.2552180,41.2754730
+6f48436f,Clínica De Salud Mental Miguel De Mañara,"Carretera Getares, S/N, 11207",Dos Hermanas,Andalucía,Spain,+34 92 663 51 92,2.0958950,41.3213760
+4611670a,Clínica De La Encarnación,"Calle Santa Soria, 22 -, 31200",Málaga,Andalucía,Spain,+34 97 239 46 57,2.4766630,41.6874250
+a52deb62,Clínica Cristo Rey,"Avenida De Jerez, S/N, 41014",Jaén,Andalucía,Spain,,1.8247820,41.7353240
+5996176c,Centro De Reproducción Asistida De Marbella,"Plaza De Les Vaques, S/N, 08202",Marbella,Andalucía,Spain,+34 90 918 37 58,2.7984050,41.9702730
+2ae1848d,Centro Clínico Ochoa,"Camino Barrio Peral, S/N, 30310",Marbella,Andalucía,Spain,+34 99 925 69 84,-4.8099770,37.8575250
+2a8f215e,Centro Asistencial San Juan De Dios,"Avenida Alcalde Rovira Roure, 44, 25198",Málaga,Andalucía,Spain,+34 96 588 55 64,-4.8060880,39.9632440
+fd09a711,Centro Asistencial Hnas. Hospitalarias Del Sagrado Corazón de Jesús,"Calle Budapest, 1, 28922",Málaga,Andalucía,Spain,,-0.1320980,38.5434150
+db965b1a,Hospital Universitario Virgen De Valme,"Pasaje Mercader, 14, 08008",Sevilla,Andalucía,Spain,+34 95 704 24 14,-3.6814880,40.4523050
+db9438cf,Hospital De Leon - Complejo Asistencial Universitario De León,"Carretera Trebujena, s/n, 11407",León,Castilla y León,Spain,+34 97 152 97 91,2.2907270,41.6137530
+efc3101d,Hospital Universitario Clínico San Cecilio,"Calle Real Del Castillo, 152, 35014",Granada,Andalucía,Spain,,-3.3308980,40.5013740
+4b057f58,Hospital Universitario De Jerez De La Frontera,"Calle Josep Torras I Bages, 55, 08830",Jerez de la Frontera,Andalucía,Spain,+34 96 328 90 30,-0.3700930,39.4458090
+1d552b57,Hospital Universitario Puerta Del Mar,"Calle Avda. Islas Canarias, 5, 35508",Cádiz,Andalucía,Spain,,-5.3417590,35.8805490
+ec87043b,Hospital Universitario De Puerto Real,"Calle Fausto Elhuyar, 9, 28806",Puerto Real,Andalucía,Spain,+34 96 635 51 86,-4.0917700,36.7509750
+96031a3b,Hospital Universitario Hm Sanchinarro,"Avenida Santa Cruz De Tenerife, 11, 05005",Madrid,Comunidad de Madrid,Spain,,2.8190680,41.9903710
+b4e6fc50,Fundacion Instituto Valenciano De Oncologia,"Carrer Bolarque, 3, 19005",València,Comunitat Valenciana,Spain,+34 90 268 11 64,3.1310170,41.8527590
+ede16f15,Hospital Universitario Clínico San Carlos,"Poligono 38, PARCELA 10 HOYA VEDADA, 26500",Madrid,Comunidad de Madrid,Spain,,2.3986510,41.5473060
+2f22ffa4,Hospital Costa Del Sol,"Plaza San Francisco, S/N, 41530",Marbella,Andalucía,Spain,,-6.1713580,36.6862980
+d79b223b,Clínica Universidad De Navarra (Madrid),"Ronda De San Francisco, 0, 10005",Madrid,Comunidad de Madrid,Spain,+34 94 784 43 66,1.9312550,42.4436490
+0d0aa84f,Clinica Universidad De Navarra (Navarra),"Partida Bellisens, S/N, 43205",Pamplona/Iruña,Navarra,Spain,,-5.5605540,39.8875660
+9ac9baa2,Hospital Universitario De Jaén,"Avenida San Juan De Dios, S/N, 41930",Jaén,Andalucía,Spain,+34 90 944 19 96,-16.5445440,28.4073170
+c26bf648,Complexo Hospitalario Universitario De Santiago,"Calle Corona, S/N, 07800",Santiago de Compostela,Galicia,Spain,+34 99 203 86 35,2.1517660,41.3891160
+e83a7f8b,Hospital Universitario Ramón Y Cajal,"Calle Violeta, 1, 06010",Madrid,Comunidad de Madrid,Spain,+34 95 533 23 73,2.1266680,41.3854490
+47861f77,Complejo Hospitalario Universitario Insular,"Avenida Denia, 78, 03016",Las Palmas de Gran Canaria,Canarias,Spain,,-6.1946300,36.4778320
+12b249e4,Hospital Universitario Virgen Del Rocio,"Carretera Corbera, 1, 46600",Sevilla,Andalucía,Spain,+34 98 599 42 16,-3.6108410,37.1880510
+4ea3e576,Hospital Universitario La Paz,"Partida Madrigueres Sud, 8, 03700",Madrid,Comunidad de Madrid,Spain,+34 98 804 93 53,-5.9820540,37.3620960
+2a36cb24,Hospital General Universitario Gregorio Marañon,"Calle Bisbe Messeguer, 3, 25003",Madrid,Comunidad de Madrid,Spain,,-3.6519280,40.4497310
+30083f3d,Consorcio Hospitalario Provincial De Castellón,"Carretera Carretera Izaskun, 9, 20400",Castellón de la Plana/Castelló de la Plana,Comunitat Valenciana,Spain,,-4.7201310,41.6497470
+01520f2c,Consorcio Hospital General Universitario De València,"Calle La Estrecha,, 33, 33011",València,Comunitat Valenciana,Spain,+34 96 657 71 85,-5.0890010,37.5343660
+d0cecb94,Hospital Clínico Universitario De València,"Paseo Piedad, 5, 06200",València,Comunitat Valenciana,Spain,+34 95 384 50 85,-3.9953770,40.3973220
+0a905273,Hospital Universitario Y Politecnico La Fe,"Carretera Don Benito Villanueva, 0, 06400",València,Comunitat Valenciana,Spain,,-6.9491460,37.2624390
+e7b4b769,Complexo Hospitalario Universitario A Coruña,"Avenida Villava, 53 , 31015",A Coruña,Galicia,Spain,,-6.1713580,36.6862980
+6f6c33b9,Hospital Universitario Miguel Servet,"Carretera Nacional 240, S/N, 22300",Zaragoza,Aragón,Spain,+34 91 741 31 65,-4.8495140,38.3830000
+ef05b789,Hospital Clínico Universitario Lozano Blesa,"Carretera De Jaén, S/N, 18013",Zaragoza,Aragón,Spain,,2.2854590,41.5918770
+5b0803dd,Hospitales Universitarios Regional y Virgen de la Victoria de Málaga,"Avenida Pau Casals, 3, 43840",Málaga,Andalucía,Spain,,-4.4119690,36.7289250
+ce9c5a63,Hospital Universitario Puerta De Hierro Majadahonda,"Calle Maestra Doña Carola, 8, 29602",Majadahonda,Comunidad de Madrid,Spain,+34 94 307 27 29,-1.1219550,37.9702990
+868d5c79,Hospital Universitario Fundación Jiménez Diaz,"Calle Feixa Llarga, S/N, 08907",Madrid,Comunidad de Madrid,Spain,+34 93 170 78 89,-15.4133840,28.0990200
+69712193,Hospital Son Llàtzer,"Calle San Agustin, 1, 29015",Palma,Baleares,Spain,,-4.4529140,36.7150470
+0f2696e8,Hospital Universitari Son Espases,"Camino Los Pinos, Camino/Bidea, 35, 20018",Palma,Baleares,Spain,,-9.0034890,42.5915170
+20d3af65,Hospital Mateu Orfila,"Carrer Juan de Quesada, S/N, 35500",Maó-Mahón,Baleares,Spain,+34 96 316 79 19,-3.6453810,38.0898130
+7bc97667,Hospital De Barcelona,"Carretera De Colmenar Viejo, K.14,8, 28049",Barcelona,Cataluña,Spain,,2.4887650,41.6895180
+777e7769,Clínica Bofill,"Calle Diego De Velazquez, 1, 28223",Girona,Cataluña,Spain,+34 96 411 52 48,-5.9229900,37.2502910
+b312ddca,Hospital Comarcal Móra D'Ebre,"Avenida San Cristobal, S/N, 23700",Móra d'Ebre,Cataluña,Spain,,-16.2590070,28.4716580
+2c1324ac,Hospital Comarcal D'Amposta,"Calle Pere III,, 41, 17600",Amposta,Cataluña,Spain,+34 94 751 31 13,-3.6663010,40.4893240
+181f9f87,Hospital De Tortosa Verge De La Cinta,"Paseo Joan Brudieu, 8, 25700",Tortosa,Cataluña,Spain,+34 98 670 76 79,2.4442680,41.5358860
+9c6c2184,Clinica Terres De L'Ebre,"Avenida França, 64, 17007",Tortosa,Cataluña,Spain,+34 90 595 60 14,2.9835040,42.2747770
+0cfffe01,Clínica Terres De Ponent,"Calle Leon Y Castillo, 0, 35600",Lleida,Cataluña,Spain,,2.1380580,41.4172670
+02e5baa2,Hospital Comarcal De Blanes,"Calle Doctor Mallafre Guasch, 4, 43007",Blanes,Cataluña,Spain,+34 95 237 83 26,-3.6853370,40.4601660
+f45fad8d,Hospital De Campdevànol,"Calle De Sinesio Delgado, 8-10, 28029",Campdevànol,Cataluña,Spain,,-3.6575940,40.4550830
+effbe64e,Clínica Salus Infirmorum,"Calle Bisbe Campins, 4, 07012",Banyoles,Cataluña,Spain,+34 99 972 61 70,-1.1159060,40.3464780
+24e9c06a,Hospital Comarcal Sant Jaume De Calella,"Carretera De Soria, KM. 8, 26120",Calella,Cataluña,Spain,+34 91 772 70 57,0.6357730,41.6050860
+9769aaec,Hospital Santa Caterina,"Paseo Colon, 14, 50006",Salt,Cataluña,Spain,,-3.6031890,40.3965020
+aeb034cc,Clínica Girona,"Calle De La Granja, 8, 28003",Girona,Cataluña,Spain,+34 97 684 63 73,-16.2666010,28.4709170
+e50057ea,Hospital D'Olot I Comarcal De La Garrotxa,"Calle Espirall, S/N, 08720",Olot,Cataluña,Spain,+34 96 148 25 89,0.5251990,40.8114390
+7cdbdb9b,Hospital De Palamós,"Calle Llull,, 410, 08019",Palamós,Cataluña,Spain,,2.1187000,41.3982310
+88a88aa3,Hospital De Figueres,"Paseo De Carmelitas, 74-94, 37007",Figueres,Cataluña,Spain,+34 90 948 48 63,-8.2162840,43.4871480
+711f036d,Hospital De La Santa Creu,"Avenida Enric Prat De La Riba, 79-81, 25004",Vic,Cataluña,Spain,,-6.3432510,39.4796950
+406393a3,Hospital General De Vic,"Calle Doctor Manuel Candela, 41, 46021",Vic,Cataluña,Spain,+34 94 688 99 76,2.1138280,41.4105120
+3d768763,Hospital Comarcal De Sant Bernabé,"Avenida Severo Ochoa, 22, 29603",Berga,Cataluña,Spain,+34 98 631 63 41,-6.0152880,38.2452150
+58ad997a,Hospital De Sant Joan De Déu,"Avenida San Ignacio De Loyola, 73, 24010",Manresa,Cataluña,Spain,,2.1156140,41.3993050
+4b1d009f,Centre Hospitalari de Manresa - Fundació Althaia,"Calle Maestra Lola Meseguer, S/N, 30820",Manresa,Cataluña,Spain,+34 92 589 67 72,-4.0653650,43.3606570
+38168bc1,Hospital D'Igualada,"Ronda Del Carmen, S/N, 13002",Igualada,Cataluña,Spain,,-1.6470090,41.3543210
+f5458f8a,Hospital De Sant Pau I Santa Tecla,"Avenida Diagonal, 656, 08034",Tarragona,Cataluña,Spain,+34 91 933 97 80,2.1053580,41.3693430
+c81a5ec0,Hospital Del Vendrell,"Calle Requet De Felix, 35, 43480",El Vendrell,Cataluña,Spain,+34 97 341 88 86,2.1425550,41.4008910
+16e24412,Pius Hospital De Valls,"Calle Joan Fuster Ortells, S/N, 43007",Valls,Cataluña,Spain,+34 92 554 30 95,-3.0271680,43.3266970
+b491e1a5,Hospital General De Granollers,"Avenida De San Juan De Dios, 1, 28350",Granollers,Cataluña,Spain,+34 91 481 13 13,-3.7096260,40.5545140
+56a85634,Hospital De Sant Celoni,"Ronda Pinetons, 6-8, 08100",Sant Celoni,Cataluña,Spain,+34 90 192 73 20,-0.3926920,39.4530790
+e05d7fdb,Hospital De Mollet,"Calle Loma Colmenar, S/N, 51003",Mollet del Vallès,Cataluña,Spain,+34 93 511 58 27,-0.4174790,42.1325120
+62f4d39d,Hospital Universitari Mutua De Terrassa,"Calle General Suarez Valdes, 40, 33204",Terrassa,Cataluña,Spain,,-0.3897000,39.4815770
+feeed2f3,Hospital Residència Sant Camil - Consorci Sanitari Del Garraf,"Calle Tonpoi Bidea, S/N, 48370",Sant Pere de Ribes,Cataluña,Spain,,-6.1918950,36.5291210
+3b431668,Hospital Plató,"Calle Tomas A Alonso, 89, 36208",Barcelona,Cataluña,Spain,,-4.5193120,41.9960320
+8d96c04e,Hospital Municipal De Badalona,"Carretera Vitoria-Logroño Km. 59 ( Er/Cr ), S/N, 01309",Badalona,Cataluña,Spain,+34 95 230 88 88,3.2014200,39.5743450
+d107cdc0,Hospital Dos De Maig,"Carrer Bailén-Motril, 32A, 23009",Barcelona,Cataluña,Spain,+34 98 608 25 74,-0.4860600,38.6929590
+898635d8,Fundació Hospital De L'Esperit Sant,"Calle De Joaquin Costa, 28, 28002",Santa Coloma de Gramenet,Cataluña,Spain,,-2.3864350,43.2518080
+6fcaaf8c,Hospital De Sant Joan De Déu,"Calle Vereda De Socuellamos, S/N, 13700",Esplugues de Llobregat,Cataluña,Spain,,-4.3947080,36.7238240
+5fca91e3,Fundació Hospital Sant Joan De Déu,"Ronda Sur, 20, 30010",Martorell,Cataluña,Spain,,-8.7653040,42.2230760
+be8539a9,Hospital De Viladecans,"Calle Cruz Roja, 1, 09006",Viladecans,Cataluña,Spain,+34 96 862 63 11,-4.9104160,41.2955070
+130bd358,Hospital De Sant Joan Despí Moisès Broggi,"Calle Hospital Do Salnes, 30, 36619",Sant Joan Despí,,Spain,,-7.3541200,42.5176050
+a0d6ebe1,Hospital Comarcal De L'Alt Penedès,"Cam. de Heros, 6, 33401",Vilafranca del Penedès,,Spain,,-4.7277120,41.6441350
+62f4d39d,Hospital Universitari Mutua De Terrassa,"Calle General Suarez Valdes, 40, 33204",Terrassa,,Spain,+34 95 374 69 89,-0.3897000,39.4815770
+feeed2f3,Hospital Residència Sant Camil - Consorci Sanitari Del Garraf,"Calle Tonpoi Bidea, S/N, 48370",Sant Pere de Ribes,,Spain,+34 91 634 33 62,-6.1918950,36.5291210
+3b431668,Hospital Plató,"Calle Tomas A Alonso, 89, 36208",Barcelona,,Spain,+34 93 997 42 73,-4.5193120,41.9960320
+8d96c04e,Hospital Municipal De Badalona,"Carretera Vitoria-Logroño Km. 59 ( Er/Cr ), S/N, 01309",Badalona,,Spain,,3.2014200,39.5743450
+d107cdc0,Hospital Dos De Maig,"Carrer Bailén-Motril, 32A, 23009",Barcelona,,Spain,+34 98 111 19 84,-0.4860600,38.6929590
+898635d8,Fundació Hospital De L'Esperit Sant,"Calle De Joaquin Costa, 28, 28002",Santa Coloma de Gramenet,,Spain,,-2.3864350,43.2518080
+6fcaaf8c,Hospital De Sant Joan De Déu,"Calle Vereda De Socuellamos, S/N, 13700",Esplugues de Llobregat,,Spain,+34 99 445 45 27,-4.3947080,36.7238240
+5fca91e3,Fundació Hospital Sant Joan De Déu,"Ronda Sur, 20, 30010",Martorell,,Spain,+34 92 635 77 82,-8.7653040,42.2230760
+be8539a9,Hospital De Viladecans,"Calle Cruz Roja, 1, 09006",Viladecans,,Spain,,-4.9104160,41.2955070
+130bd358,Hospital De Sant Joan Despí Moisès Broggi,"Calle Hospital Do Salnes, 30, 36619",Sant Joan Despí,Cataluña,Spain,,-7.3541200,42.5176050
+a0d6ebe1,Hospital Comarcal De L'Alt Penedès,"Cam. de Heros, 6, 33401",Vilafranca del Penedès,Cataluña,Spain,+34 95 667 66 85,-4.7277120,41.6441350
+63949518,Espitau Val D'Aran,"Calle Del Doctor Juan Jose Lopez Ibor, 2, 28035",Vielha e Mijaran,Cataluña,Spain,,-5.9664230,37.3274450
+7cde69bb,Fundació Sant Hospital,"Carretera El Masnou A Alella, 1, 08328",La Seu d'Urgell,Cataluña,Spain,+34 93 615 30 19,-0.9093840,41.6460520
+e951ad2c,Clinica Corachan,"Avenida Tibidabo, 20, 08022",Barcelona,Cataluña,Spain,+34 93 802 24 64,2.1770390,41.4106910
+14299d2c,Centre Medic Delfos,"Avenida Santa Oliva, 1-13, 43710",Barcelona,Cataluña,Spain,+34 94 265 44 73,2.1903910,41.3895260
+dfb778cf,Centro Médico Teknon,"Calle Remonta, S/N, 52005",Barcelona,Cataluña,Spain,,1.4593290,38.6897160
+4ff8a319,Hospital Quirónsalud Barcelona,"Ronda Sant  Camil, S/N, 08810",Barcelona,Cataluña,Spain,,-0.6831890,37.9775850
+e7f76e74,Instituto Oncológico Rosell,"Carretera Carretera Santa Marina, 41, 48004",Barcelona,Cataluña,Spain,+34 98 641 85 65,-3.6009640,37.1731770
+e62180ff,Hospital General De L'Hospitalet,"Avenida De Juan Carlos I, 0, 05071",L' Hospitalet de Llobregat,Cataluña,Spain,+34 99 407 72 36,-5.7624230,40.9780540
+fef0b169,Hospital Universitari General De Catalunya,"Calle De Estambul, 30, 28922",Sant Cugat del Vallès,Cataluña,Spain,,-4.3601670,36.7276430
+3f041b2a,Hospital Universitari Sagrat Cor,"Calle Afores, S/N, 25430",Barcelona,Cataluña,Spain,,2.7924240,41.9743270
+2be66701,Hospital Universitari De Sant Joan De Reus,"Avenida Doctores Fenandez Vega, S/N, 33012",Reus,Cataluña,Spain,,-5.9805960,37.3610730
+ac10bc7e,Hospital Universitari Arnau De Vilanova De Lleida,"Carretera De L'Institut Pere Mata, S/N, 43206",Lleida,Cataluña,Spain,,-4.5257960,36.6013870
+00d5e4dd,Hospital De Terrassa,"Calle Santa Teresa, 9, 35017",Terrassa,Cataluña,Spain,,-16.2548350,28.4697990
+514a4466,Hospital De Mataró,"Avenida Cantabria, 52, 39012",Mataró,Cataluña,Spain,+34 94 800 38 67,-5.9820540,37.3620960
+40dfd9b5,Hospital De Sabadell - Parc Taulí,"Calle Alemania, 4, 38400",Sabadell,Cataluña,Spain,+34 94 368 85 99,-0.8634500,41.6895980
+aa1033a1,ICO (Institut Catala D'Oncologia) - Hospital Josep Trueta,"Carretera Talarrubias-Agudo   Km 2, 0, 06640",Girona,Cataluña,Spain,,2.8206540,41.9796080
+7f4804c3,ICO (Institut Catala D'Oncologia) - Hospital Germans Trias i Pujol,"Calle Doctor Mallafre Guasch, S/N, 43005",Badalona,Cataluña,Spain,+34 93 711 35 53,2.7033230,39.5739820
+74348948,ICO (Institut Catala D'Oncologia) - Hospital Duran I Reynals,"Avenida De La Feria, S/N, 30510",L' Hospitalet de Llobregat,Cataluña,Spain,+34 98 533 90 19,-3.7067890,40.4313400
+014c74a5,Hospital Clinic De Barcelona,"Calle Domingo J Manrique, 2, 38006",Barcelona,Cataluña,Spain,,-8.6502210,42.4300060
+98364377,Hospital Universitari Vall D'Hebron,"Calle Doctor Repolles, 2, 44600",Barcelona,Cataluña,Spain,+34 98 831 52 95,-1.6237700,42.8161890
+a9993451,Hospital Del Mar,"Calle Mister Blisse, S/N, 35212",Barcelona,Cataluña,Spain,+34 99 371 13 97,-0.3302310,39.4766240
+46253146,Hospital De La Santa Creu i Sant Pau,"Avenida Gil De Atrocillo, S/N, 12500",Barcelona,Cataluña,Spain,,-8.6842200,42.2150000
