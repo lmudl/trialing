@@ -1,7 +1,10 @@
 # data analysis
 # setwd("trialing-assignment/")
 # load the two datasets
-web <- read.csv2("trialing-hospitals.csv", sep = ",", na.strings = c("", "NA"))
+library(dplyr)
+library(ggplot2)
+
+web <- read.csv2("data/hospital_web.csv", sep = ",", na.strings = c("", "NA"))
 dim(web)
 head(web)
 summary(web)
@@ -76,24 +79,23 @@ levels(web$data$region) <-  c(levels(web$dataset$region), "Almería")
 id1 <- which(web$dataset$city == web$notfillable[1], arr.ind = TRUE)
 web$dataset[id1, "region"] <- "Andalucía"
 
-# will do by hand
-id2 <- which(web2$dataset$city == web$notfillable[2], arr.ind = TRUE)
+id2 <- which(web$dataset$city == web$notfillable[2], arr.ind = TRUE)
 web$dataset[id2, "region"] <- "Almería"
 
-id3 <- which(web2$dataset$city == web$notfillable[3], arr.ind = TRUE)
+id3 <- which(web$dataset$city == web$notfillable[3], arr.ind = TRUE)
 web$dataset[id3, "region"] <- "Andalucía"
 
-id4 <- which(web2$dataset$city == web$notfillable[4], arr.ind = TRUE)
+id4 <- which(web$dataset$city == web$notfillable[4], arr.ind = TRUE)
 web$dataset[id4, "region"] <- "Andalucía"
 
-write.csv(web2$dataset,  "filled.csv")
+write.csv(web$dataset,  "./data/hospital_filled.csv")
 
 # fill with hand Almeria
 
-web <- read.csv2("filled.csv", sep = ",", na.strings = c(" ", "NA"))
+web <- read.csv2("./data/hospital_filled.csv", sep = ",", na.strings = c(" ", "NA"))
 any(is.na(web$region))
 
-trials <- read.csv2("hospital_trials.csv", sep = ";")
+trials <- read.csv2("./data/hospital_trials.csv", sep = ";")
 dim(trials)
 head(trials)
 
@@ -104,18 +106,17 @@ head(trials)
 # why are there duplicated lines? 16
 sum(duplicated(trials))
 
-library(dplyr)
-
 web %>% left_join(trials, by = "hospital_id") -> df
 
 
-library(ggplot2)
 barplot <- ggplot(data = df, aes(x=reorder(region,
                                            region,
                                            function(x)-length(x)))) +
   geom_bar(stat = "count", fill = "steelblue") + theme_minimal() +
-  ggtitle("Barplot of clinical trials per region") +
+  ggtitle("Barplot of Clinical Trials per Region") +
   theme(axis.text.x = element_text(angle = 60, hjust =1)) +
-  geom_text(stat="count", aes(label =..count..), vjust = -1)
+  geom_text(stat="count", aes(label =..count..), vjust = -0.5) +
+  xlab("Region") + ylab ("Number of trials")
 barplot
-
+saveRDS(barplot, "results/barplot.rds")
+ggsave("results/barplot.pdf", width = 6, height = 6)
