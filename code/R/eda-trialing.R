@@ -98,13 +98,13 @@ web$notfillable
 # hercual overa almería
 # cabra andalusia
 # el puerto de santa maria  is andlucia
-levels(web$data$region) <-  c(levels(web$dataset$region), "Almería")
+levels(web$data$region) <-  c(levels(web$dataset$region), "Andalucía")
 
 id1 <- which(web$dataset$city == web$notfillable[1], arr.ind = TRUE)
 web$dataset[id1, "region"] <- "Andalucía"
 
 id2 <- which(web$dataset$city == web$notfillable[2], arr.ind = TRUE)
-web$dataset[id2, "region"] <- "Almería"
+web$dataset[id2, "region"] <- "Andalucía"
 
 id3 <- which(web$dataset$city == web$notfillable[3], arr.ind = TRUE)
 web$dataset[id3, "region"] <- "Andalucía"
