@@ -8,10 +8,10 @@ http://trialing-df.s3-website-eu-west-1.amazonaws.com/
 and for each hospital obtain the following information:   
 **id**, **name**, **address**, **lat**, **long**, **country**, **region**, **city**, **contact data**.  
 We scraped the data using *Beautifulsoup* and saved it to data/hospital_web.csv.
-Rows wih duplicated hospital_id were merged and their combined information was stored (for the phone
+Rows with duplicated hospital_id were merged and their combined information was stored (for the phone
 variable).
 Some hospitals were missing the region information but for other hospitals in the same city,
-the region was giving. We therefore matched the regions with the cities when region was missing
+the region was given. We therefore matched the regions with the cities when region was missing
 (see code/R/eda-trialing.csv).    
 After completing the data this way, in the next step we match the hospitals with a dataset that 
 contains clinical trials and the hospital_id where the trial was done (hospital_trial.csv). 
@@ -33,7 +33,7 @@ Contains the same code as web-scrape.py but in a jupyter notebook
 
 *R/eda-trialing.r*  
 With this code we fill in the missing region information, merge
-hospital_web and hospital_trials and create the barplot.
+hospital_web and hospital_trials and create the bar plot.
 
 ## data
 
@@ -55,13 +55,14 @@ Download the repository with all the data.
 If you want to check the data is created correctly you can  
 delete hospital_web and hospital_filled and run the code.  
 
-0. Set trialing as wd
+0. Set trialing as working directory
 1. Run web-scrape.py
 2. Check if hospital_web was created successfully  
-3. Run eda-trialing.r to fill in the region information, create hospital_filled and the barplot  
-4. Check if the barplot was created in the results folder  
+3. Run eda-trialing.r to fill in the region information, create hospital_filled and the bar plot  
+4. Check if the bar plot was created in the results folder  
 
 ## Outlook
 
 We can imagine other plots to visualize the region-trial distribution, for example
-a Spain map with each region coloured according to their trial count.
+a Spain map with each region colored according to their trial count.
+
