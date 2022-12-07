@@ -4,40 +4,63 @@
 library(dplyr)
 library(ggplot2)
 
+# Load the web scraped data
 web <- read.csv2("data/hospital_web.csv", sep = ",", na.strings = c("", "NA"))
 dim(web)
 head(web)
 summary(web)
 colnames(web)
 
-sum(duplicated(web$hospital_id))
+# get number of duplicates for hospital_id
+n_dupl <- sum(duplicated(web$hospital_id))
+# get number of rows in web scraped data
+n_og <- nrow(web)
 
+# merge rows with same hospital_id combining information on phone for example
+web %>%  group_by(hospital_id) %>%
+  summarise_all(list(~toString(unique(na.omit(.))))) -> web
+# give empty strings NA again
+web %>% mutate_all(list(~na_if(., ""))) -> web
+
+# check if there are any duplicates of hospital_id left
+any(duplicated(web$hospital_id)) # FALSE
+# validate that we have less rows, the number is equal to the number of duplicates
+n_post <- nrow(web)
+n_og - n_post == n_dupl
+
+# create factor variables and show a summary of the dataset
 temp <- web
-cols <- c("name", "addr", "city", "region",
+cols <- c("hospital_id", "name", "addr", "city", "region",
             "country")
 temp[cols] <- lapply(temp[cols], factor)
 
-summary(temp) # but this was to be expected
+# there are missing values for region
+summary(temp)
 
 
 # we want to plot regions
 # inspect regions
 unique(web$region)
+# in which rows is region missing
 no_region <- which(is.na(web$region), arr.ind = TRUE)
+# get all cities that have missing regions
 city_no_region <- unique(web$city[no_region])
-
+# create a lookup table for all city and region combinations
 unique(web %>% select(city, region) %>% filter(!is.na(region))) -> lookup
+# which cities that have missing regions are NOT in the lookup table
+# these cities have to be checked by hand
 out <- !(city_no_region %in% lookup$city)
+# all other cities have their region in the lookup table and can be matched
 inside <- !out
+# display the cities that have to check by hand
 city_no_region[out]
+# create a vector of cities that can be looked up by a function
 fill_this <- city_no_region[inside]
 
 # get rows with missing region
-
-# some regions have empty string
-# we replace it with NA
+# some regions had empty string
+# we replaced it with NA
 # now we match the cities without region with cities with regions
-
 # loop over each city, get region for that city
 # get all rows that have that city and fill with that region
 
@@ -63,6 +86,7 @@ fill_region <- function(dataset) {
   }
   return(list(dataset = dataset, notfillable = not_fillable))
 }
+
 
 #undebug(fill_region)
 web <- fill_region(web)
@@ -90,10 +114,12 @@ web$dataset[id4, "region"] <- "Andalucía"
 
 write.csv(web$dataset,  "./data/hospital_filled.csv")
 
-# fill with hand Almeria
-
 web <- read.csv2("./data/hospital_filled.csv", sep = ",", na.strings = c(" ", "NA"))
 any(is.na(web$region))
+
+
+
+
 
 trials <- read.csv2("./data/hospital_trials.csv", sep = ";")
 dim(trials)
@@ -106,8 +132,12 @@ head(trials)
 # why are there duplicated lines? 16
 sum(duplicated(trials))
 
+trials %>% distinct() -> trials
+
 web %>% left_join(trials, by = "hospital_id") -> df
 
+all(trials$hospital_id %in% web$hospital_id)
+all(web$hospital_id %in% trials$hospital_id)
 
 barplot <- ggplot(data = df, aes(x=reorder(region,
                                            region,
