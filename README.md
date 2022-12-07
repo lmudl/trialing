@@ -8,13 +8,16 @@ http://trialing-df.s3-website-eu-west-1.amazonaws.com/
 and for each hospital obtain the following information:   
 **id**, **name**, **address**, **lat**, **long**, **country**, **region**, **city**, **contact data**.  
 We scraped the data using *Beautifulsoup* and saved it to data/hospital_web.csv.
+Rows wih duplicated hospital_id were merged and their combined information was stored (for the phone
+variable).
 Some hospitals were missing the region information but for other hospitals in the same city,
 the region was giving. We therefore matched the regions with the cities when region was missing
 (see code/R/eda-trialing.csv).    
 After completing the data this way, in the next step we match the hospitals with a dataset that 
-contains clinical trials and the hospital id where it was done (hospital_trial.csv).  
+contains clinical trials and the hospital_id where the trial was done (hospital_trial.csv). 
+Before we do so, we remove duplicated rows (hospital_id and trial_id).
 We combine the general hospital information with the trial data and create a plot to show the number of trials done in each region.  
-The barplot can be found at results/barplot.pdf
+The barplot can be found at results/barplot.pdf.
 
 ## Folder Structure
 
