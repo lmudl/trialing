@@ -17,7 +17,7 @@ After completing the data this way, in the next step we match the hospitals with
 contains clinical trials and the hospital_id where the trial was done (hospital_trial.csv). 
 Before we do so, we remove duplicated rows (hospital_id and trial_id).
 We combine the general hospital information with the trial data and create a plot to show the number of trials done in each region.  
-The barplot can be found at results/barplot.pdf.
+The bar plot can be found at results/barplot.pdf.
 
 ## Folder Structure
 

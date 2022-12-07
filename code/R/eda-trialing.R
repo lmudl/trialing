@@ -88,7 +88,7 @@ fill_region <- function(dataset) {
 }
 
 
-#undebug(fill_region)
+# undebug(fill_region)
 web <- fill_region(web)
 
 web$notfillable
@@ -115,10 +115,8 @@ web$dataset[id4, "region"] <- "Andalucía"
 write.csv(web$dataset,  "./data/hospital_filled.csv")
 
 web <- read.csv2("./data/hospital_filled.csv", sep = ",", na.strings = c(" ", "NA"))
+# no row with missing region left
 any(is.na(web$region))
-
-
-
 
 
 trials <- read.csv2("./data/hospital_trials.csv", sep = ";")
@@ -132,12 +130,22 @@ head(trials)
 # why are there duplicated lines? 16
 sum(duplicated(trials))
 
+# we drop duplicated rows
 trials %>% distinct() -> trials
 
-web %>% left_join(trials, by = "hospital_id") -> df
+# we combine the two datasets
+web %>% inner_join(trials, by = "hospital_id") -> df
 
-all(trials$hospital_id %in% web$hospital_id)
-all(web$hospital_id %in% trials$hospital_id)
+# its important to inner join because not all web hospital_ids are in trials
+# and not all trials hopspital_ids are in web.
+# We only want to see those trial hospital_ids that we have information on
+# in web hospital_id.
+# Therfore: web inner_join trials on hospital_id
+# all(trials$hospital_id %in% web$hospital_id) FALSE
+# all(web$hospital_id %in% trials$hospital_id) FALSE
+# but
+sum(trials$hospital_id %in% web$hospital_id) == nrow(df) # TRUE
+
 
 barplot <- ggplot(data = df, aes(x=reorder(region,
                                            region,
