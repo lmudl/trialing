@@ -158,3 +158,7 @@ barplot <- ggplot(data = df, aes(x=reorder(region,
 barplot
 saveRDS(barplot, "results/barplot.rds")
 ggsave("results/barplot.pdf", width = 6, height = 6)
+
+write.csv(df,  "./data/hospital_and_trial.csv")
+
+
