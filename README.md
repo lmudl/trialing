@@ -65,8 +65,3 @@ delete hospital_web and hospital_filled and run the code.
 3. Run eda-trialing.r to fill in the region information, create hospital_filled and the bar plot  
 4. Check if the bar plot was created in the results folder  
 
-## Outlook
-
-We can imagine other plots to visualize the region-trial distribution, for example
-a Spain map with each region colored according to their trial count.
-
