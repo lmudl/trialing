@@ -4,7 +4,7 @@ This is the repository for my trialing assignment solution
 
 ## Overview and Summary
 In this assignment the challenge is to web scrape the data from the trialing website: http://trialing-df.s3-website-eu-west-1.amazonaws.com/.  
-For each hospital on the website we scrape the following information: **id**, **name**, **address**, **lat**, **long**, **country**, **region**, **city**, **contact data**.  
+For each hospital on the website we scrape the following information: **hosptial_id**, **name**, **address**, **lat**, **long**, **country**, **region**, **city**, **contact data**.  
 1. We scraped the data using *Beautifulsoup* and saved it to data/hospital_web.csv.   
 2. Rows with duplicated hospital_id were merged and their combined information was stored (for the phone variable).
 3. Some hospitals were missing the region information but for other hospitals in the same city,
