@@ -90,6 +90,7 @@ perc_plot<- ggplot(plot_df) +
 perc_plot
 # save plot with percentages
 ggsave("results/mapplot_perc.pdf", width = 8, height = 8)
+ggsave("results/mapplot_perc.jpg",  width = 8, height = 8)
 
 
 perc_nonames <- ggplot(plot_df) +
